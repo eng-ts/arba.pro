@@ -1,6 +1,7 @@
 ---
 layout: realisation
 title: Maison dans le Pré
+permalink: /maison-dans-le-pre/
 year: 2008
 ---
 
