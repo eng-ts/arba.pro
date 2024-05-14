@@ -8,10 +8,17 @@ Jean-Baptiste Barache & Sihem Lamine / Architectes
 
 > site en maintenance
 
+![](_realisations/01.mchamps/01_thumb.jpg)
+![ cxd](_realisations/22.mcorse/01_thumb.jpg)
 
-{% for project in site.realisations %}
-  <div class="project">
-    <h2>{{ project.title }}</h2>
-    <a href="{{ project.url }}">Voir</a>
-  </div>
-{% endfor %}
+
+<div class="projects">
+  {% for project in site.realisations %}
+    <div class="project">
+      <a href="{{ project.url }}">
+        <img src="{{ project.thumbnail }}" alt="{{ project.title }}">
+      </a>
+      {{ project.title }}
+    </div>
+  {% endfor %}
+</div>

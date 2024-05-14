@@ -1,8 +1,9 @@
 ---
-layout: realisation
 title: Maison dans un champs
+layout: realisation
 permalink: /maison-dans-un-champs/
 year: 2006
+thumbnail: /_realisations/01.mchamps/01_thumb.jpg
 ---
 
 <i>Photos © Gaelle Le Boulicaut</i>

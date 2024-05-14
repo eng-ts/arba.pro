@@ -1,4 +1,5 @@
 ---
+thumbnail: /_realisations/02.mpre/01_thumb.jpg
 layout: realisation
 title: Maison dans le Pré
 permalink: /maison-dans-le-pre/
