@@ -23,7 +23,7 @@ title: ""
 email: barache.lamine@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   atelier d'architecture
-baseurl: "/arba.pro" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://arba.pro" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
@@ -37,8 +37,10 @@ collections:
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "default"
 
-# plugins:
-#   - jekyll-feed
+plugins:
+  - jekyll-feed
+  - minimal-mistakes-jekyll
+  - github-pages
 
 
 defaults:
