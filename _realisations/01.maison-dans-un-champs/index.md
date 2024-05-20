@@ -45,7 +45,7 @@ gallery:
   * Isolation: Laine de roche
   * Chauffage: Poêle de masse
 
-<br>C’est ici que l’expérience commence. Jean-Baptiste a passé 18 mois à construire cette maison de famille. En dehors du charpentier qui a monté les 4 fermes en lamellé collé, l’architecte a construit seul cette maison
+C’est ici que l’expérience commence. Jean-Baptiste a passé 18 mois à construire cette maison de famille. En dehors du charpentier qui a monté les 4 fermes en lamellé collé, l’architecte a construit seul cette maison
 L’échelle de ce projet fait davantage référence à la chapelle ou à la grange qu’à l’habitation. La coque de bois définie un espace unique et surdimensionné dans lequel vient s’inscrire un objet sculpté.
 
 Sans jamais toucher l’enveloppe, celui-ci intègre la salle d’eau, l’espace de nuit et ses lits clos, l’escalier, la bibliothèque, le poêle...
@@ -54,9 +54,9 @@ Toute la vêture intérieure, composée de panneaux de contre-plaqué de pin
 Cette peau naturelle se patine dans le temps et donne l’impression d’une bâtisse sans âge, qui aurait toujours été là.
 
 Démarche environnementale:
-<br>&bull; Utilisation du site sans terrassement 
-<br>&bull; Chauffage bois et solaire passif 
-<br>&bull; Absence de raccordement électrique
+  * Utilisation du site sans terrassement 
+  * Chauffage bois et solaire passif 
+  * Absence de raccordement électrique
 
 
 

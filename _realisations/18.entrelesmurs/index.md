@@ -7,17 +7,17 @@ year: 2018
 ---
 
 <i> Photos 1,2,5,6 © arba- / 3,4,7,8,9,10,11,12,13,14,15,16,17 © D.Moulinet</i>
-<br><br><b> 1er Prix National de la Construction Bois 2018 </b>
-<br><br><b> Lauréat des Trophées Bois Île-de-France 2018 </b>
+<b> 1er Prix National de la Construction Bois 2018 </b>
+<b> Lauréat des Trophées Bois Île-de-France 2018 </b>
 
-<br>&bull; Site: Thomery / Seine-et-Marne
-<br>&bull; Surface: 108m2
-<br>&bull; Budget: 266 000€ TTC 
-<br>&bull; Matériaux: Longrines béton, sapin du nord, châssis aluminium, vêture CP et goudron de pin, dalles MFP
-<br>&bull; Chauffage: Poêle à bois
-<br>&bull; Agencement: Contreplaqué de bouleau et frêne massif (égoïne).
+  * Site: Thomery / Seine-et-Marne
+  * Surface: 108m2
+  * Budget: 266 000€ TTC 
+  * Matériaux: Longrines béton, sapin du nord, châssis aluminium, vêture CP et goudron de pin, dalles MFP
+  * Chauffage: Poêle à bois
+  * Agencement: Contreplaqué de bouleau et frêne massif (égoïne).
 
-<br> Quand nous sommes arrivés sur ce terrain, nous avons trouvé une parcelle tranchée en deux par un mur à vignes en pierre. Beaucoup de la poétique du lieu venait de ce mur, de l'appareillage de la pierre, du fait de sa présence dans ce jardin.
+ Quand nous sommes arrivés sur ce terrain, nous avons trouvé une parcelle tranchée en deux par un mur à vignes en pierre. Beaucoup de la poétique du lieu venait de ce mur, de l'appareillage de la pierre, du fait de sa présence dans ce jardin.
 Ce mur crée un écosystème autour de lui: il généré de l'ombre, il emmagasine des calories et les redonne, il porte des plantes qui grimpent sur la pierre. Mais il dérange! Il divise en deux un terrain que l'on aurait souhaité unitaire et ouvert, il tranche. Et c'est très étonnant de se rendre compte de toutes les questions "existentielles" qu'un tel objet - bâti et non-vivant- peut générer lors de la recherche d'un geste architectural que l'on voulait juste. Fallait-il le détruire? S'en libérer, l'oublier et recréer du neuf ? Ou au mieux, réutiliser ses pierres?
 Fallait-il garder cet objet intact, comme on l'a trouvé, le "respecter" comme on respecterait un arbre ou un objet de patrimoine? Fallait-il être aussi radical que ce mur tranchant et en garder chaque pierre?
 Quelle est la valeur de ce mur? Et quel est la liberté d'un architecte face à l'existant?

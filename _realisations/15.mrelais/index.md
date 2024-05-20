@@ -8,14 +8,14 @@ year: 2012
 
 <i>Photos © arba-</i>
 
-<br>&bull; Site: Gaillon / Haute-Normandie
-<br>&bull; Surface: 175m2
-<br>&bull; Budget: 304 000€ TTC
-<br>&bull; Matériaux: Longrines béton, pin du nord, zinc à joint debout, vêture et menuiserie mélèze
-<br>&bull; Isolation: Laine de bois
-<br>&bull; Chauffage: Poêle à bois et puits canadien
+  * Site: Gaillon / Haute-Normandie
+  * Surface: 175m2
+  * Budget: 304 000€ TTC
+  * Matériaux: Longrines béton, pin du nord, zinc à joint debout, vêture et menuiserie mélèze
+  * Isolation: Laine de bois
+  * Chauffage: Poêle à bois et puits canadien
 
-<br>Le bois est un matériau ayant une faible inertie. Ce manque d’inertie peut être le point faible des constructions en bois où les calories ne sont pas stockées pour une diffusion différée. Des sols en béton, des volumes de pierres ou de briques peuvent compenser ce manque.
+Le bois est un matériau ayant une faible inertie. Ce manque d’inertie peut être le point faible des constructions en bois où les calories ne sont pas stockées pour une diffusion différée. Des sols en béton, des volumes de pierres ou de briques peuvent compenser ce manque.
 Dans cette maison nous avons expérimenté un élément plus sophistiqué :  une réseau de mur creux en brique.
 Cette « gaine maçonnée », situé à un mètre de la façade Sud, est connecté à un puits canadien qui le maintient en surpression, et au conduit du poêle.
 Il est régulièrement percé de bouches de ventilation .
