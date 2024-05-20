@@ -1,16 +1,42 @@
 ---
 thumbnail: /_realisations/05.mjardin/01_thumb.jpg
 title: Maison dans le Jardin
-layout: realisation
+layout: single
 permalink: /maison-dans-le-jardin/
 year: 2011
+thumbnail: /assets/maison-dans-le-jardin/01_thumb.jpg
+gallery: 
+  - url: /assets/maison-dans-le-jardin/01.jpg
+    image_path: /assets/maison-dans-le-jardin/01.jpg
+  - url: /assets/maison-dans-le-jardin/02.jpg
+    image_path: /assets/maison-dans-le-jardin/02.jpg
+  - url: /assets/maison-dans-le-jardin/03.jpg
+    image_path: /assets/maison-dans-le-jardin/03.jpg
+  - url: /assets/maison-dans-le-jardin/04.jpg
+    image_path: /assets/maison-dans-le-jardin/04.jpg
+  - url: /assets/maison-dans-le-jardin/05.jpg
+    image_path: /assets/maison-dans-le-jardin/05.jpg
+  - url: /assets/maison-dans-le-jardin/06.jpg
+    image_path: /assets/maison-dans-le-jardin/06.jpg
+  - url: /assets/maison-dans-le-jardin/07.jpg
+    image_path: /assets/maison-dans-le-jardin/07.jpg
+  - url: /assets/maison-dans-le-jardin/08.jpg
+    image_path: /assets/maison-dans-le-jardin/08.jpg
+  - url: /assets/maison-dans-le-jardin/09.jpg
+    image_path: /assets/maison-dans-le-jardin/09.jpg
+  - url: /assets/maison-dans-le-jardin/10.jpg
+    image_path: /assets/maison-dans-le-jardin/10.jpg
+  - url: /assets/maison-dans-le-jardin/11.jpg
+    image_path: /assets/maison-dans-le-jardin/11.jpg
 ---
 
-<i>Photos © Hervé Abbadie</i>
-<B>Lauréat des « 24 heures de l’architecture » 2012</B>
+{% include gallery caption="Photos © Hervé Abbadie" %}
+
+
+> Lauréat des « 24 heures de l’architecture » 2012
 
   * Site: Veneux-Les-Sablons / Ile-de-France
-  * Surface: 130m2
+  * Surface: 130 m2
   * Budget: 250 000€ TTC
   * Matériaux: Plot béton, sapin du nord, tasseaux de mélèze, verre clair et sérigraphié
   * Isolation: Laine de bois
