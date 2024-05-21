@@ -119,14 +119,14 @@ var store = [{
         "url": "/arba.pro/le-pavillon/",
         "teaser": null
       },{
-        "title": "Maison Écran",
-        "excerpt":"Architecte associés P.Gourvennec / Archi.Tech Site: Alfortville / Ile-de-France Surface: 50 m2 Budget: 100 000€ Nous avons apprécié concevoir cette extension pour des clients demandeur d’élégance et de sobriété. L’existant était agréable, en grande partie grâce à une série de roseaux qui filtraient la lumière et transmettaient leurs vibrations aux...","categories": [],
+        "title": "Maison écran",
+        "excerpt":"Photos © arba- Architecte associés P.Gourvennec / Archi.Tech Site: Alfortville / Ile-de-France Surface: 50 m2 Budget: 100 000€ Nous avons apprécié concevoir cette extension pour des clients demandeur d’élégance et de sobriété. L’existant était agréable, en grande partie grâce à une série de roseaux qui filtraient la lumière et transmettaient...","categories": [],
         "tags": [],
         "url": "/arba.pro/maison-ecran/",
         "teaser": null
       },{
         "title": "Maison Corse",
-        "excerpt":"Architecte associé JL.Baldacci Site: Morsiglia / Haute Corse Surface: 17 m2 Budget: 96 000€ TTC Matériaux: Longrines béton, pin Laricio, lauze, châssis et vêture mélèze Chauffage: Poêle à bois Pour profiter du cap Corse sans dénaturer ce magnifique paysage, cette petite intendance aux allures de cabane de berger vient se...","categories": [],
+        "excerpt":"Photos © arba- Architecte associé JL.Baldacci Site: Morsiglia / Haute Corse Surface: 17 m2 Budget: 96 000€ TTC Matériaux: Longrines béton, pin Laricio, lauze, châssis et vêture mélèze Chauffage: Poêle à bois Pour profiter du cap Corse sans dénaturer ce magnifique paysage, cette petite intendance aux allures de cabane de...","categories": [],
         "tags": [],
         "url": "/arba.pro/maison-corse/",
         "teaser": null
