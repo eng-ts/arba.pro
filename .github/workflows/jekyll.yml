@@ -19,6 +19,8 @@ jobs:
         run: |
           gem install bundler
           bundle install
+      - name: Print installed gems
+        run: bundle list      
       - name: Build the site
         run: bundle exec jekyll build
       - name: Deploy to GitHub Pages
