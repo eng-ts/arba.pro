@@ -42,3 +42,7 @@ L’existant était agréable, en grande partie grâce à une série de roseaux 
 L’intervention consiste, au-delà de la surélévation, à disposer une série de treillis de mélèze à claire voie entre la rue et le fond de parcelle : on a ainsi un portail coulissant, un écran géant formant brise soleil et moucharabieh devant les chambres crées, un garde corps qui manquait à la terrasse, et un banc au niveau du jardin.
 
 La déclinaison d’un même vocabulaire sur toute la parcelle permet de redonner une cohérence à cet ensemble qui en manquait.
+
+<video width="660" height="440" controls="controls">
+  <source src="/arba.pro/assets/maison-ecran/660x440.mp4" type="video/mp4">
+</video>

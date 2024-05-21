@@ -49,5 +49,6 @@ la première enveloppe est constituée de volets coulissants en treillis bois, l
 
 La maison devient poreuse à son environnement aussi bien dans sa perception que dans son usage, et laisse l'impression de vivre dans la forêt, bien au delà de l'enveloppe chauffée.
 
-
-
+<video width="660" height="420" controls="controls">
+  <source src="/arba.pro/assets/maison-filtre/660x420.mp4" type="video/mp4">
+</video>
