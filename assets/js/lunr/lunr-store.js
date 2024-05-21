@@ -54,7 +54,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Petite Maison",
-        "excerpt":"Photos 1,2,7,8,9,11,12,13 © P.Gourvennec / 3,4,5,6,10,14© arba- Architecte associé P.Gourvennec Site: Longueil / Haute-Normandie Surface: 20 m2 Budget: 98 000€ Matériaux: Plots béton, sapin du nord, tôle ondulée et polycarbonate, châssis et vêture mélèze Chauffage: Poêle à bois Il s’agit cette fois de construire un habitat minimal pour profiter du...","categories": [],
+        "excerpt":"Photos © 1,2,7,8,9,11,12,13 © P.Gourvennec / 3,4,5,6,10,14© arba- Architecte associé P.Gourvennec Site: Longueil / Haute-Normandie Surface: 20 m2 Budget: 98 000€ Matériaux: Plots béton, sapin du nord, tôle ondulée et polycarbonate, châssis et vêture mélèze Chauffage: Poêle à bois Il s’agit cette fois de construire un habitat minimal pour profiter...","categories": [],
         "tags": [],
         "url": "/arba.pro/petite-maison/",
         "teaser": null
