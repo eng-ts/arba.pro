@@ -16,10 +16,9 @@ Jean-Baptiste Barache & Sihem Lamine / Architectes
 <div class="projects">
   {% for project in site.realisations %}
     <div class="project">
-      <a href="{{ project.url }}">
-        <img src="{{ project.thumbnail }}" alt="{{ project.title }}">
+      <a href="{{ site.baseurl }}{{ project.url }}">
+        <img src="{{ site.baseurl }}{{ project.thumbnail }}" alt="{{ project.title }}">
       </a>
-      {{ project.title }}
     </div>
   {% endfor %}
 </div>
