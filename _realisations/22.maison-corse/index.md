@@ -25,6 +25,7 @@ gallery:
   image_path: /assets/maison-corse/09.jpg
 ---
 
+{% include gallery caption="Photos © arba-" %}
 
 *Architecte associé JL.Baldacci*
 
@@ -40,5 +41,5 @@ On accède aux différends espaces de la maison (couchage, douche, salon…) par
 
 
 <video width="660" height="440" controls="controls">
-  <source src="assets/maison-corse/10.660x440.mp4" type="video/mp4">
+  <source src="/arba.pro/assets/maison-corse/10.660x440.mp4" type="video/mp4">
 </video>
