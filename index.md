@@ -1,6 +1,6 @@
 ---
 title: ''
-layout: home
+layout: archive
 gallery:
 - url: /maison-dans-un-champs/
   image_path: /assets/maison-dans-un-champs/01.jpg
