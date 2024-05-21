@@ -1,7 +1,7 @@
 ---
 thumbnail: /_realisations/22.mcorse/01_thumb.jpg
 title: Maison Corse
-layout: realisation
+layout: single
 permalink: /maison-corse/
 year: 2021
 gallery:
@@ -26,7 +26,7 @@ gallery:
 ---
 
 
-<i>Architecte associé JL.Baldacci</i>
+*Architecte associé JL.Baldacci*
 
   * Site: Morsiglia / Haute Corse
   * Surface: 17m2

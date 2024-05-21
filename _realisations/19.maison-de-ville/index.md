@@ -1,6 +1,6 @@
 ---
 thumbnail: /_realisations/19.mville/01_thumb.jpg
-layout: realisation
+layout: single
 title: Maison de ville
 permalink: /maison-de-ville/
 year: 2016
@@ -44,7 +44,7 @@ gallery:
 ---
 
 
-<i>Photos © arba-</i>
+{% include gallery caption="Photos © arba-" %}
 
   * Site: Chatou / Ile de France
   * Surface: 115m2

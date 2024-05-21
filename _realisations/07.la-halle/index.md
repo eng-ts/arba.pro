@@ -1,7 +1,7 @@
 ---
 thumbnail: /_realisations/07.halle/01_thumb.jpg
 title: La Halle
-layout: realisation
+layout: single
 permalink: /la-halle/
 year: 2015
 gallery:
@@ -42,8 +42,9 @@ gallery:
 ---
 
 
-<i>Photos 1,2,4 © M.Flaux / 3,5,6,7,8,9,10 © F.Le Guen</i>
-<B>Prix Habitat Durable Archinovo 2015 décerné par Fleur Pellerin</B>
+{% include gallery caption="Photos 1,2,4 © M.Flaux / 3,5,6,7,8,9,10 © F.Le Guen" %}
+
+> Prix Habitat Durable Archinovo 2015 décerné par Fleur Pellerin
 
   * Site: Rouen / Normandie
   * Surface: 392m2

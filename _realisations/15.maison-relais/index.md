@@ -1,7 +1,7 @@
 ---
 thumbnail: /_realisations/15.mrelais/01_thumb.jpg
 title: Maison Relais
-layout: realisation
+layout: single
 permalink: /maison-relais/
 year: 2012
 gallery:
@@ -36,7 +36,7 @@ gallery:
 ---
 
 
-<i>Photos © arba-</i>
+{% include gallery caption="Photos © arba-" %}
 
   * Site: Gaillon / Haute-Normandie
   * Surface: 175m2

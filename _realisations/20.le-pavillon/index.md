@@ -1,6 +1,6 @@
 ---
 thumbnail: /_realisations/20.pavillon/01_thumb.jpg
-layout: realisation
+layout: single
 title: Le Pavillon
 permalink: /le-pavillon/
 year: 2008
@@ -26,7 +26,7 @@ gallery:
 ---
 
 
-<i>Photos © arba-</i>
+{% include gallery caption="Photos © arba-" %}
 
   * Site: Flexanville / Yvelines
   * Surface: 130m2

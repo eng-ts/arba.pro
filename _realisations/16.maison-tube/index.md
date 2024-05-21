@@ -1,7 +1,7 @@
 ---
 thumbnail: /_realisations/16.mtube/01_thumb.jpg
 title: Maison Tube
-layout: realisation
+layout: single
 permalink: /maison-tube/
 year: 2010
 gallery:
@@ -20,7 +20,7 @@ gallery:
 ---
 
 
-<i>Photos © arba-</i>
+{% include gallery caption="Photos © arba-" %}
 
   * Site: Saint-Chéron / Ile-de-France
   * Surface: 130m2

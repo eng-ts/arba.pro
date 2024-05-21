@@ -1,7 +1,7 @@
 ---
 thumbnail: /_realisations/12.msapin/01_thumb.jpg
 title: "Maison pr\xE8s du Sapin"
-layout: realisation
+layout: single
 permalink: /maison-pres-du-sapin/
 year: 2015
 gallery:
@@ -42,7 +42,7 @@ gallery:
 ---
 
 
-<i>Photos © F.Le Guen / agencement égoïne</i>
+{% include gallery caption="Photos © F.Le Guen / agencement égoïne" %}
 
   * Site: Loisieux / Savoie
   * Surface: 40m2

@@ -1,7 +1,7 @@
 ---
 thumbnail: /_realisations/17.lanterne/01_thumb.jpg
 title: La Lanterne
-layout: realisation
+layout: single
 permalink: /la-lanterne/
 year: 2014
 gallery:
@@ -32,7 +32,7 @@ gallery:
 ---
 
 
-<i>Photos © Daniel Moulinet</i>
+{% include gallery caption="Photos © Daniel Moulinet" %}
 
   * Site: Les Lilas / Ile-de-France
   * Surface: 45m2

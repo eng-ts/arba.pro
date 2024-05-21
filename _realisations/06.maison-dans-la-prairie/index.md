@@ -1,7 +1,7 @@
 ---
 thumbnail: /_realisations/06.mprairie/01_thumb.jpg
 title: Maison dans la Prairie
-layout: realisation
+layout: single
 permalink: /maison-dans-la-prairie/
 year: 2012
 gallery:
@@ -41,10 +41,11 @@ gallery:
   image_path: /assets/maison-dans-la-prairie/17.jpg
 ---
 
+{% include gallery caption="Photos © arba-" %}
 
-<i>Photos © arba-</i>
-<B>2ème prix National de la Construction Bois 2015​</B>
-<B>Lauréat du ​prix « Bois Construction Environnement de Basse-Normandie » 201​​​​​5​</B>
+> 2ème prix National de la Construction Bois 2015​
+
+> Lauréat du ​prix « Bois Construction Environnement de Basse-Normandie » 201​​​​​5​
 
   * Site: Lisieux / Basse-Normandie
   * Surface: 78m2

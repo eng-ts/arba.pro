@@ -1,7 +1,7 @@
 ---
 thumbnail: /_realisations/11.mfiltre/01_thumb.jpg
 title: Maison Filtre
-layout: realisation
+layout: single
 permalink: /maison-filtre/
 year: 2017
 gallery:
@@ -33,6 +33,7 @@ gallery:
   image_path: /assets/maison-filtre/13.jpg
 ---
 
+{% include gallery caption="Photos © arba-" %}
 
   * Site: Chevreuse / Ile-de-France
   * Surface: 110m2

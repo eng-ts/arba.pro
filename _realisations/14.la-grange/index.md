@@ -1,7 +1,7 @@
 ---
 thumbnail: /_realisations/14.grange/01_thumb.jpg
 title: La Grange
-layout: realisation
+layout: single
 permalink: /la-grange/
 year: 2012
 gallery:
@@ -46,7 +46,7 @@ gallery:
 ---
 
 
-<i>Photos © Kat</i> / <i>Partenaire associé M.Bouvier</i>
+{% include gallery caption="Photos © Kat</i> / <i>Partenaire associé M.Bouvier" %}
 
   * Site: Grosrouvre / Ile-de-France
   * Surface: 228m2

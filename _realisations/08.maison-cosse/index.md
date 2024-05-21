@@ -1,7 +1,7 @@
 ---
 thumbnail: /_realisations/08.mcosse/01_thumb.jpg
 title: Maison Cosse
-layout: realisation
+layout: single
 permalink: /maison-cosse/
 year: 2012
 gallery:
@@ -30,7 +30,7 @@ gallery:
 ---
 
 
-<i>Photos 1,2,3,4 © Hervé Abbadie / 5,6 © arba-</i>
+{% include gallery caption="Photos 1,2,3,4 © Hervé Abbadie / 5,6 © arba-" %}
 
   * Site: Montreuil / Ile-de-France
   * Surface: 176m2

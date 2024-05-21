@@ -1,7 +1,7 @@
 ---
 thumbnail: /_realisations/13.mmontagne/01_thumb.jpg
 title: Maison sur la Montagne
-layout: realisation
+layout: single
 permalink: /maison-sur-la-montagne/
 year: 2011
 gallery:
@@ -42,7 +42,7 @@ gallery:
 ---
 
 
-<i>Photos © arba-</i>
+{% include gallery caption="Photos © arba-" %}
 
   * Site: Poisy / Haute-Savoie
   * Surface: 120m2

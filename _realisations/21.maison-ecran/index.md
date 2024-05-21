@@ -1,7 +1,7 @@
 ---
 thumbnail: /_realisations/21.mecran/01_thumb.jpg
 title: "Maison \xC9cran"
-layout: realisation
+layout: single
 permalink: /maison-ecran/
 year: 2017
 gallery:
@@ -28,7 +28,8 @@ gallery:
 ---
 
 
-<i>Architecte associés P.Gourvennec / Archi.Tech</i>
+*Architecte associés P.Gourvennec / Archi.Tech*
+
   * Site: Alfortville / Ile-de-France
   * Surface: 50m2
   * Budget: 100 000€

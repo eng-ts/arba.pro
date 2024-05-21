@@ -1,6 +1,6 @@
 ---
 thumbnail: /_realisations/09.londe/01_thumb.jpg
-layout: realisation
+layout: single
 title: "L\u2019Onde"
 permalink: /l-onde/
 year: 2019
@@ -46,7 +46,7 @@ gallery:
 ---
 
 
-<i>Photos 1,2,3,5,7,8,9,11,12,13,14,15,© P.Gourvennec- / 4,6,10 © arba- </i>
+{% include gallery caption="Photos 1,2,3,5,7,8,9,11,12,13,14,15,© P.Gourvennec- / 4,6,10 © arba- </i>
 
   * Site: Murat / Cantal
   * Surface: 75m2

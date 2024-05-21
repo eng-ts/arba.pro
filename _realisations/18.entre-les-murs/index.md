@@ -1,6 +1,6 @@
 ---
 thumbnail: /_realisations/18.entrelesmurs/01_thumb.jpg
-layout: realisation
+layout: single
 title: Entre les murs
 permalink: /entre-les-murs/
 year: 2018
@@ -50,9 +50,11 @@ gallery:
 ---
 
 
-<i> Photos 1,2,5,6 © arba- / 3,4,7,8,9,10,11,12,13,14,15,16,17 © D.Moulinet</i>
-<b> 1er Prix National de la Construction Bois 2018 </b>
-<b> Lauréat des Trophées Bois Île-de-France 2018 </b>
+{% include gallery caption="Photos 1,2,5,6 © arba- / 3,4,7,8,9,10,11,12,13,14,15,16,17 © D.Moulinet" %}
+
+> 1er Prix National de la Construction Bois 2018
+
+> Lauréat des Trophées Bois Île-de-France 2018
 
   * Site: Thomery / Seine-et-Marne
   * Surface: 108m2
