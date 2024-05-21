@@ -41,8 +41,10 @@ gallery:
   image_path: /assets/petite-maison/17.jpg
 ---
 
-<i> Photos 1,2,7,8,9,11,12,13 © P.Gourvennec / 3,4,5,6,10,14© arba- </i>
-<b>Architecte associé P.Gourvennec</b>
+
+{% include gallery caption="Photos © 1,2,7,8,9,11,12,13 © P.Gourvennec / 3,4,5,6,10,14© arba-" %}
+
+*Architecte associé P.Gourvennec*
 
   * Site: Longueil / Haute-Normandie
   * Surface: 20 m2
