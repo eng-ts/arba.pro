@@ -24,7 +24,7 @@ gallery:
   image_path: /assets/maison-sur-la-montagne/01.jpg
   alt: Maison sur la montagne
 - url: /maison-filtre/
-  image_path: /assets/maison-filtre/01.jpg
+  image_path: /assets/maison-filtre/09.jpg
   alt: Maison filtre
 - url: /maison-de-ville/
   image_path: /assets/maison-de-ville/01.jpg
@@ -54,7 +54,7 @@ gallery:
   image_path: /assets/maison-dans-la-prairie/01.jpg
   alt: Maison dans la prairie
 - url: /maison-ecran/
-  image_path: /assets/maison-ecran/01.jpg
+  image_path: /assets/maison-ecran/07.jpg
   alt: Maison écran
 - url: /maison-corse/
   image_path: /assets/maison-corse/01.jpg
