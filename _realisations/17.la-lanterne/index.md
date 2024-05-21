@@ -4,7 +4,33 @@ title: La Lanterne
 layout: realisation
 permalink: /la-lanterne/
 year: 2014
+gallery:
+- url: /assets/la-lanterne/01.jpg
+  image_path: /assets/la-lanterne/01.jpg
+- url: /assets/la-lanterne/02.jpg
+  image_path: /assets/la-lanterne/02.jpg
+- url: /assets/la-lanterne/03.jpg
+  image_path: /assets/la-lanterne/03.jpg
+- url: /assets/la-lanterne/04.jpg
+  image_path: /assets/la-lanterne/04.jpg
+- url: /assets/la-lanterne/05.jpg
+  image_path: /assets/la-lanterne/05.jpg
+- url: /assets/la-lanterne/06.jpg
+  image_path: /assets/la-lanterne/06.jpg
+- url: /assets/la-lanterne/07.jpg
+  image_path: /assets/la-lanterne/07.jpg
+- url: /assets/la-lanterne/08.jpg
+  image_path: /assets/la-lanterne/08.jpg
+- url: /assets/la-lanterne/09.jpg
+  image_path: /assets/la-lanterne/09.jpg
+- url: /assets/la-lanterne/10.jpg
+  image_path: /assets/la-lanterne/10.jpg
+- url: /assets/la-lanterne/11.jpg
+  image_path: /assets/la-lanterne/11.jpg
+- url: /assets/la-lanterne/12.jpg
+  image_path: /assets/la-lanterne/12.jpg
 ---
+
 
 <i>Photos © Daniel Moulinet</i>
 

@@ -1,10 +1,32 @@
 ---
 thumbnail: /_realisations/21.mecran/01_thumb.jpg
-title: Maison Écran
+title: "Maison \xC9cran"
 layout: realisation
 permalink: /maison-ecran/
 year: 2017
+gallery:
+- url: /assets/maison-ecran/01.jpg
+  image_path: /assets/maison-ecran/01.jpg
+- url: /assets/maison-ecran/02.jpg
+  image_path: /assets/maison-ecran/02.jpg
+- url: /assets/maison-ecran/03.jpg
+  image_path: /assets/maison-ecran/03.jpg
+- url: /assets/maison-ecran/04.jpg
+  image_path: /assets/maison-ecran/04.jpg
+- url: /assets/maison-ecran/05.jpg
+  image_path: /assets/maison-ecran/05.jpg
+- url: /assets/maison-ecran/06.jpg
+  image_path: /assets/maison-ecran/06.jpg
+- url: /assets/maison-ecran/07.jpg
+  image_path: /assets/maison-ecran/07.jpg
+- url: /assets/maison-ecran/08.jpg
+  image_path: /assets/maison-ecran/08.jpg
+- url: /assets/maison-ecran/09.jpg
+  image_path: /assets/maison-ecran/09.jpg
+- url: /assets/maison-ecran/10.jpg
+  image_path: /assets/maison-ecran/10.jpg
 ---
+
 
 <i>Architecte associés P.Gourvennec / Archi.Tech</i>
   * Site: Alfortville / Ile-de-France

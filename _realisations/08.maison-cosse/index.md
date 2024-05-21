@@ -4,7 +4,31 @@ title: Maison Cosse
 layout: realisation
 permalink: /maison-cosse/
 year: 2012
+gallery:
+- url: /assets/maison-cosse/01.jpg
+  image_path: /assets/maison-cosse/01.jpg
+- url: /assets/maison-cosse/02.jpg
+  image_path: /assets/maison-cosse/02.jpg
+- url: /assets/maison-cosse/03.jpg
+  image_path: /assets/maison-cosse/03.jpg
+- url: /assets/maison-cosse/04.jpg
+  image_path: /assets/maison-cosse/04.jpg
+- url: /assets/maison-cosse/05.jpg
+  image_path: /assets/maison-cosse/05.jpg
+- url: /assets/maison-cosse/06.jpg
+  image_path: /assets/maison-cosse/06.jpg
+- url: /assets/maison-cosse/07.jpg
+  image_path: /assets/maison-cosse/07.jpg
+- url: /assets/maison-cosse/08.jpg
+  image_path: /assets/maison-cosse/08.jpg
+- url: /assets/maison-cosse/09.jpg
+  image_path: /assets/maison-cosse/09.jpg
+- url: /assets/maison-cosse/10.jpg
+  image_path: /assets/maison-cosse/10.jpg
+- url: /assets/maison-cosse/11.jpg
+  image_path: /assets/maison-cosse/11.jpg
 ---
+
 
 <i>Photos 1,2,3,4 © Hervé Abbadie / 5,6 © arba-</i>
 

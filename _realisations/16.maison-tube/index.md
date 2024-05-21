@@ -4,7 +4,21 @@ title: Maison Tube
 layout: realisation
 permalink: /maison-tube/
 year: 2010
+gallery:
+- url: /assets/maison-tube/01.jpg
+  image_path: /assets/maison-tube/01.jpg
+- url: /assets/maison-tube/02.jpg
+  image_path: /assets/maison-tube/02.jpg
+- url: /assets/maison-tube/03.jpg
+  image_path: /assets/maison-tube/03.jpg
+- url: /assets/maison-tube/04.jpg
+  image_path: /assets/maison-tube/04.jpg
+- url: /assets/maison-tube/05.jpg
+  image_path: /assets/maison-tube/05.jpg
+- url: /assets/maison-tube/06.jpg
+  image_path: /assets/maison-tube/06.jpg
 ---
+
 
 <i>Photos © arba-</i>
 

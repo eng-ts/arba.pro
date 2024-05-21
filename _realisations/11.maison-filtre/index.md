@@ -4,7 +4,35 @@ title: Maison Filtre
 layout: realisation
 permalink: /maison-filtre/
 year: 2017
+gallery:
+- url: /assets/maison-filtre/01.jpg
+  image_path: /assets/maison-filtre/01.jpg
+- url: /assets/maison-filtre/02.jpg
+  image_path: /assets/maison-filtre/02.jpg
+- url: /assets/maison-filtre/03.jpg
+  image_path: /assets/maison-filtre/03.jpg
+- url: /assets/maison-filtre/04.jpg
+  image_path: /assets/maison-filtre/04.jpg
+- url: /assets/maison-filtre/05.jpg
+  image_path: /assets/maison-filtre/05.jpg
+- url: /assets/maison-filtre/06.jpg
+  image_path: /assets/maison-filtre/06.jpg
+- url: /assets/maison-filtre/07.jpg
+  image_path: /assets/maison-filtre/07.jpg
+- url: /assets/maison-filtre/08.jpg
+  image_path: /assets/maison-filtre/08.jpg
+- url: /assets/maison-filtre/09.jpg
+  image_path: /assets/maison-filtre/09.jpg
+- url: /assets/maison-filtre/10.jpg
+  image_path: /assets/maison-filtre/10.jpg
+- url: /assets/maison-filtre/11.jpg
+  image_path: /assets/maison-filtre/11.jpg
+- url: /assets/maison-filtre/12.jpg
+  image_path: /assets/maison-filtre/12.jpg
+- url: /assets/maison-filtre/13.jpg
+  image_path: /assets/maison-filtre/13.jpg
 ---
+
 
   * Site: Chevreuse / Ile-de-France
   * Surface: 110m2

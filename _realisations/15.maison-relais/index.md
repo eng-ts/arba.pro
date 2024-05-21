@@ -4,7 +4,37 @@ title: Maison Relais
 layout: realisation
 permalink: /maison-relais/
 year: 2012
+gallery:
+- url: /assets/maison-relais/01.jpg
+  image_path: /assets/maison-relais/01.jpg
+- url: /assets/maison-relais/02.jpg
+  image_path: /assets/maison-relais/02.jpg
+- url: /assets/maison-relais/03.jpg
+  image_path: /assets/maison-relais/03.jpg
+- url: /assets/maison-relais/04.jpg
+  image_path: /assets/maison-relais/04.jpg
+- url: /assets/maison-relais/05.jpg
+  image_path: /assets/maison-relais/05.jpg
+- url: /assets/maison-relais/06.jpg
+  image_path: /assets/maison-relais/06.jpg
+- url: /assets/maison-relais/07.jpg
+  image_path: /assets/maison-relais/07.jpg
+- url: /assets/maison-relais/08.jpg
+  image_path: /assets/maison-relais/08.jpg
+- url: /assets/maison-relais/09.jpg
+  image_path: /assets/maison-relais/09.jpg
+- url: /assets/maison-relais/10.jpg
+  image_path: /assets/maison-relais/10.jpg
+- url: /assets/maison-relais/11.jpg
+  image_path: /assets/maison-relais/11.jpg
+- url: /assets/maison-relais/12.jpg
+  image_path: /assets/maison-relais/12.jpg
+- url: /assets/maison-relais/13.jpg
+  image_path: /assets/maison-relais/13.jpg
+- url: /assets/maison-relais/14.jpg
+  image_path: /assets/maison-relais/14.jpg
 ---
+
 
 <i>Photos © arba-</i>
 

@@ -4,7 +4,27 @@ layout: realisation
 title: Le Pavillon
 permalink: /le-pavillon/
 year: 2008
+gallery:
+- url: /assets/le-pavillon/01.jpg
+  image_path: /assets/le-pavillon/01.jpg
+- url: /assets/le-pavillon/02.jpg
+  image_path: /assets/le-pavillon/02.jpg
+- url: /assets/le-pavillon/03.jpg
+  image_path: /assets/le-pavillon/03.jpg
+- url: /assets/le-pavillon/04.jpg
+  image_path: /assets/le-pavillon/04.jpg
+- url: /assets/le-pavillon/05.jpg
+  image_path: /assets/le-pavillon/05.jpg
+- url: /assets/le-pavillon/06.jpg
+  image_path: /assets/le-pavillon/06.jpg
+- url: /assets/le-pavillon/07.jpg
+  image_path: /assets/le-pavillon/07.jpg
+- url: /assets/le-pavillon/08.jpg
+  image_path: /assets/le-pavillon/08.jpg
+- url: /assets/le-pavillon/09.jpg
+  image_path: /assets/le-pavillon/09.jpg
 ---
+
 
 <i>Photos © arba-</i>
 

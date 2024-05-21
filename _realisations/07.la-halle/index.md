@@ -4,7 +4,43 @@ title: La Halle
 layout: realisation
 permalink: /la-halle/
 year: 2015
+gallery:
+- url: /assets/la-halle/01.jpg
+  image_path: /assets/la-halle/01.jpg
+- url: /assets/la-halle/02.jpg
+  image_path: /assets/la-halle/02.jpg
+- url: /assets/la-halle/03.jpg
+  image_path: /assets/la-halle/03.jpg
+- url: /assets/la-halle/04.jpg
+  image_path: /assets/la-halle/04.jpg
+- url: /assets/la-halle/05.jpg
+  image_path: /assets/la-halle/05.jpg
+- url: /assets/la-halle/06.jpg
+  image_path: /assets/la-halle/06.jpg
+- url: /assets/la-halle/07.jpg
+  image_path: /assets/la-halle/07.jpg
+- url: /assets/la-halle/08.jpg
+  image_path: /assets/la-halle/08.jpg
+- url: /assets/la-halle/09.jpg
+  image_path: /assets/la-halle/09.jpg
+- url: /assets/la-halle/10.jpg
+  image_path: /assets/la-halle/10.jpg
+- url: /assets/la-halle/11.jpg
+  image_path: /assets/la-halle/11.jpg
+- url: /assets/la-halle/12.jpg
+  image_path: /assets/la-halle/12.jpg
+- url: /assets/la-halle/13.jpg
+  image_path: /assets/la-halle/13.jpg
+- url: /assets/la-halle/14.jpg
+  image_path: /assets/la-halle/14.jpg
+- url: /assets/la-halle/15.jpg
+  image_path: /assets/la-halle/15.jpg
+- url: /assets/la-halle/16.jpg
+  image_path: /assets/la-halle/16.jpg
+- url: /assets/la-halle/17.jpg
+  image_path: /assets/la-halle/17.jpg
 ---
+
 
 <i>Photos 1,2,4 © M.Flaux / 3,5,6,7,8,9,10 © F.Le Guen</i>
 <B>Prix Habitat Durable Archinovo 2015 décerné par Fleur Pellerin</B>

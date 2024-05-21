@@ -4,7 +4,51 @@ layout: realisation
 title: Entre les murs
 permalink: /entre-les-murs/
 year: 2018
+gallery:
+- url: /assets/entre-les-murs/01.jpg
+  image_path: /assets/entre-les-murs/01.jpg
+- url: /assets/entre-les-murs/02.jpg
+  image_path: /assets/entre-les-murs/02.jpg
+- url: /assets/entre-les-murs/03.jpg
+  image_path: /assets/entre-les-murs/03.jpg
+- url: /assets/entre-les-murs/04.jpg
+  image_path: /assets/entre-les-murs/04.jpg
+- url: /assets/entre-les-murs/05.jpg
+  image_path: /assets/entre-les-murs/05.jpg
+- url: /assets/entre-les-murs/06.jpg
+  image_path: /assets/entre-les-murs/06.jpg
+- url: /assets/entre-les-murs/07.jpg
+  image_path: /assets/entre-les-murs/07.jpg
+- url: /assets/entre-les-murs/08.jpg
+  image_path: /assets/entre-les-murs/08.jpg
+- url: /assets/entre-les-murs/09.jpg
+  image_path: /assets/entre-les-murs/09.jpg
+- url: /assets/entre-les-murs/10.jpg
+  image_path: /assets/entre-les-murs/10.jpg
+- url: /assets/entre-les-murs/11.jpg
+  image_path: /assets/entre-les-murs/11.jpg
+- url: /assets/entre-les-murs/12.jpg
+  image_path: /assets/entre-les-murs/12.jpg
+- url: /assets/entre-les-murs/13.jpg
+  image_path: /assets/entre-les-murs/13.jpg
+- url: /assets/entre-les-murs/14.jpg
+  image_path: /assets/entre-les-murs/14.jpg
+- url: /assets/entre-les-murs/15.jpg
+  image_path: /assets/entre-les-murs/15.jpg
+- url: /assets/entre-les-murs/16.jpg
+  image_path: /assets/entre-les-murs/16.jpg
+- url: /assets/entre-les-murs/17.jpg
+  image_path: /assets/entre-les-murs/17.jpg
+- url: /assets/entre-les-murs/18.jpg
+  image_path: /assets/entre-les-murs/18.jpg
+- url: /assets/entre-les-murs/19.jpg
+  image_path: /assets/entre-les-murs/19.jpg
+- url: /assets/entre-les-murs/20.jpg
+  image_path: /assets/entre-les-murs/20.jpg
+- url: /assets/entre-les-murs/21.jpg
+  image_path: /assets/entre-les-murs/21.jpg
 ---
+
 
 <i> Photos 1,2,5,6 © arba- / 3,4,7,8,9,10,11,12,13,14,15,16,17 © D.Moulinet</i>
 <b> 1er Prix National de la Construction Bois 2018 </b>

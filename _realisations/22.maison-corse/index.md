@@ -4,7 +4,27 @@ title: Maison Corse
 layout: realisation
 permalink: /maison-corse/
 year: 2021
+gallery:
+- url: /assets/maison-corse/01.jpg
+  image_path: /assets/maison-corse/01.jpg
+- url: /assets/maison-corse/02.jpg
+  image_path: /assets/maison-corse/02.jpg
+- url: /assets/maison-corse/03.jpg
+  image_path: /assets/maison-corse/03.jpg
+- url: /assets/maison-corse/04.jpg
+  image_path: /assets/maison-corse/04.jpg
+- url: /assets/maison-corse/05.jpg
+  image_path: /assets/maison-corse/05.jpg
+- url: /assets/maison-corse/06.jpg
+  image_path: /assets/maison-corse/06.jpg
+- url: /assets/maison-corse/07.jpg
+  image_path: /assets/maison-corse/07.jpg
+- url: /assets/maison-corse/08.jpg
+  image_path: /assets/maison-corse/08.jpg
+- url: /assets/maison-corse/09.jpg
+  image_path: /assets/maison-corse/09.jpg
 ---
+
 
 <i>Architecte associé JL.Baldacci</i>
 

@@ -4,7 +4,43 @@ title: Maison dans la Prairie
 layout: realisation
 permalink: /maison-dans-la-prairie/
 year: 2012
+gallery:
+- url: /assets/maison-dans-la-prairie/01.jpg
+  image_path: /assets/maison-dans-la-prairie/01.jpg
+- url: /assets/maison-dans-la-prairie/02.jpg
+  image_path: /assets/maison-dans-la-prairie/02.jpg
+- url: /assets/maison-dans-la-prairie/03.jpg
+  image_path: /assets/maison-dans-la-prairie/03.jpg
+- url: /assets/maison-dans-la-prairie/04.jpg
+  image_path: /assets/maison-dans-la-prairie/04.jpg
+- url: /assets/maison-dans-la-prairie/05.jpg
+  image_path: /assets/maison-dans-la-prairie/05.jpg
+- url: /assets/maison-dans-la-prairie/06.jpg
+  image_path: /assets/maison-dans-la-prairie/06.jpg
+- url: /assets/maison-dans-la-prairie/07.jpg
+  image_path: /assets/maison-dans-la-prairie/07.jpg
+- url: /assets/maison-dans-la-prairie/08.jpg
+  image_path: /assets/maison-dans-la-prairie/08.jpg
+- url: /assets/maison-dans-la-prairie/09.jpg
+  image_path: /assets/maison-dans-la-prairie/09.jpg
+- url: /assets/maison-dans-la-prairie/10.jpg
+  image_path: /assets/maison-dans-la-prairie/10.jpg
+- url: /assets/maison-dans-la-prairie/11.jpg
+  image_path: /assets/maison-dans-la-prairie/11.jpg
+- url: /assets/maison-dans-la-prairie/12.jpg
+  image_path: /assets/maison-dans-la-prairie/12.jpg
+- url: /assets/maison-dans-la-prairie/13.jpg
+  image_path: /assets/maison-dans-la-prairie/13.jpg
+- url: /assets/maison-dans-la-prairie/14.jpg
+  image_path: /assets/maison-dans-la-prairie/14.jpg
+- url: /assets/maison-dans-la-prairie/15.jpg
+  image_path: /assets/maison-dans-la-prairie/15.jpg
+- url: /assets/maison-dans-la-prairie/16.jpg
+  image_path: /assets/maison-dans-la-prairie/16.jpg
+- url: /assets/maison-dans-la-prairie/17.jpg
+  image_path: /assets/maison-dans-la-prairie/17.jpg
 ---
+
 
 <i>Photos © arba-</i>
 <B>2ème prix National de la Construction Bois 2015​</B>

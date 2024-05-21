@@ -1,10 +1,46 @@
 ---
 thumbnail: /_realisations/12.msapin/01_thumb.jpg
-title: Maison près du Sapin
+title: "Maison pr\xE8s du Sapin"
 layout: realisation
 permalink: /maison-pres-du-sapin/
 year: 2015
+gallery:
+- url: /assets/maison-pres-du-sapin/01.jpg
+  image_path: /assets/maison-pres-du-sapin/01.jpg
+- url: /assets/maison-pres-du-sapin/02.jpg
+  image_path: /assets/maison-pres-du-sapin/02.jpg
+- url: /assets/maison-pres-du-sapin/03.jpg
+  image_path: /assets/maison-pres-du-sapin/03.jpg
+- url: /assets/maison-pres-du-sapin/04.jpg
+  image_path: /assets/maison-pres-du-sapin/04.jpg
+- url: /assets/maison-pres-du-sapin/05.jpg
+  image_path: /assets/maison-pres-du-sapin/05.jpg
+- url: /assets/maison-pres-du-sapin/06.jpg
+  image_path: /assets/maison-pres-du-sapin/06.jpg
+- url: /assets/maison-pres-du-sapin/07.jpg
+  image_path: /assets/maison-pres-du-sapin/07.jpg
+- url: /assets/maison-pres-du-sapin/08.jpg
+  image_path: /assets/maison-pres-du-sapin/08.jpg
+- url: /assets/maison-pres-du-sapin/09.jpg
+  image_path: /assets/maison-pres-du-sapin/09.jpg
+- url: /assets/maison-pres-du-sapin/10.jpg
+  image_path: /assets/maison-pres-du-sapin/10.jpg
+- url: /assets/maison-pres-du-sapin/11.jpg
+  image_path: /assets/maison-pres-du-sapin/11.jpg
+- url: /assets/maison-pres-du-sapin/12.jpg
+  image_path: /assets/maison-pres-du-sapin/12.jpg
+- url: /assets/maison-pres-du-sapin/13.jpg
+  image_path: /assets/maison-pres-du-sapin/13.jpg
+- url: /assets/maison-pres-du-sapin/14.jpg
+  image_path: /assets/maison-pres-du-sapin/14.jpg
+- url: /assets/maison-pres-du-sapin/15.jpg
+  image_path: /assets/maison-pres-du-sapin/15.jpg
+- url: /assets/maison-pres-du-sapin/16.jpg
+  image_path: /assets/maison-pres-du-sapin/16.jpg
+- url: /assets/maison-pres-du-sapin/17.jpg
+  image_path: /assets/maison-pres-du-sapin/17.jpg
 ---
+
 
 <i>Photos © F.Le Guen / agencement égoïne</i>
 

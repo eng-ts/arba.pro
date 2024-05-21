@@ -4,7 +4,43 @@ title: Petite Maison
 layout: realisation
 permalink: /petite-maison/
 year: 2018
+gallery:
+- url: /assets/petite-maison/01.jpg
+  image_path: /assets/petite-maison/01.jpg
+- url: /assets/petite-maison/02.jpg
+  image_path: /assets/petite-maison/02.jpg
+- url: /assets/petite-maison/03.jpg
+  image_path: /assets/petite-maison/03.jpg
+- url: /assets/petite-maison/04.jpg
+  image_path: /assets/petite-maison/04.jpg
+- url: /assets/petite-maison/05.jpg
+  image_path: /assets/petite-maison/05.jpg
+- url: /assets/petite-maison/06.jpg
+  image_path: /assets/petite-maison/06.jpg
+- url: /assets/petite-maison/07.jpg
+  image_path: /assets/petite-maison/07.jpg
+- url: /assets/petite-maison/08.jpg
+  image_path: /assets/petite-maison/08.jpg
+- url: /assets/petite-maison/09.jpg
+  image_path: /assets/petite-maison/09.jpg
+- url: /assets/petite-maison/10.jpg
+  image_path: /assets/petite-maison/10.jpg
+- url: /assets/petite-maison/11.jpg
+  image_path: /assets/petite-maison/11.jpg
+- url: /assets/petite-maison/12.jpg
+  image_path: /assets/petite-maison/12.jpg
+- url: /assets/petite-maison/13.jpg
+  image_path: /assets/petite-maison/13.jpg
+- url: /assets/petite-maison/14.jpg
+  image_path: /assets/petite-maison/14.jpg
+- url: /assets/petite-maison/15.jpg
+  image_path: /assets/petite-maison/15.jpg
+- url: /assets/petite-maison/16.jpg
+  image_path: /assets/petite-maison/16.jpg
+- url: /assets/petite-maison/17.jpg
+  image_path: /assets/petite-maison/17.jpg
 ---
+
 
 <i> Photos 1,2,7,8,9,11,12,13 © P.Gourvennec / 3,4,5,6,10,14© arba- </i>
 <b>Architecte associé P.Gourvennec</b>

@@ -4,7 +4,47 @@ title: La Grange
 layout: realisation
 permalink: /la-grange/
 year: 2012
+gallery:
+- url: /assets/la-grange/01.jpg
+  image_path: /assets/la-grange/01.jpg
+- url: /assets/la-grange/02.jpg
+  image_path: /assets/la-grange/02.jpg
+- url: /assets/la-grange/03.jpg
+  image_path: /assets/la-grange/03.jpg
+- url: /assets/la-grange/04.jpg
+  image_path: /assets/la-grange/04.jpg
+- url: /assets/la-grange/05.jpg
+  image_path: /assets/la-grange/05.jpg
+- url: /assets/la-grange/06.jpg
+  image_path: /assets/la-grange/06.jpg
+- url: /assets/la-grange/07.jpg
+  image_path: /assets/la-grange/07.jpg
+- url: /assets/la-grange/08.jpg
+  image_path: /assets/la-grange/08.jpg
+- url: /assets/la-grange/09.jpg
+  image_path: /assets/la-grange/09.jpg
+- url: /assets/la-grange/10.jpg
+  image_path: /assets/la-grange/10.jpg
+- url: /assets/la-grange/11.jpg
+  image_path: /assets/la-grange/11.jpg
+- url: /assets/la-grange/12.jpg
+  image_path: /assets/la-grange/12.jpg
+- url: /assets/la-grange/13.jpg
+  image_path: /assets/la-grange/13.jpg
+- url: /assets/la-grange/14.jpg
+  image_path: /assets/la-grange/14.jpg
+- url: /assets/la-grange/15.jpg
+  image_path: /assets/la-grange/15.jpg
+- url: /assets/la-grange/16.jpg
+  image_path: /assets/la-grange/16.jpg
+- url: /assets/la-grange/17.jpg
+  image_path: /assets/la-grange/17.jpg
+- url: /assets/la-grange/18.jpg
+  image_path: /assets/la-grange/18.jpg
+- url: /assets/la-grange/19.jpg
+  image_path: /assets/la-grange/19.jpg
 ---
+
 
 <i>Photos © Kat</i> / <i>Partenaire associé M.Bouvier</i>
 

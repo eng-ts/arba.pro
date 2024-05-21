@@ -1,10 +1,50 @@
 ---
 thumbnail: /_realisations/09.londe/01_thumb.jpg
 layout: realisation
-title: L’Onde
+title: "L\u2019Onde"
 permalink: /l-onde/
-year: 2019 
+year: 2019
+gallery:
+- url: /assets/l-onde/01.jpg
+  image_path: /assets/l-onde/01.jpg
+- url: /assets/l-onde/02.jpg
+  image_path: /assets/l-onde/02.jpg
+- url: /assets/l-onde/03.jpg
+  image_path: /assets/l-onde/03.jpg
+- url: /assets/l-onde/04.jpg
+  image_path: /assets/l-onde/04.jpg
+- url: /assets/l-onde/05.jpg
+  image_path: /assets/l-onde/05.jpg
+- url: /assets/l-onde/06.jpg
+  image_path: /assets/l-onde/06.jpg
+- url: /assets/l-onde/07.jpg
+  image_path: /assets/l-onde/07.jpg
+- url: /assets/l-onde/08.jpg
+  image_path: /assets/l-onde/08.jpg
+- url: /assets/l-onde/09.jpg
+  image_path: /assets/l-onde/09.jpg
+- url: /assets/l-onde/10.jpg
+  image_path: /assets/l-onde/10.jpg
+- url: /assets/l-onde/11.jpg
+  image_path: /assets/l-onde/11.jpg
+- url: /assets/l-onde/12.jpg
+  image_path: /assets/l-onde/12.jpg
+- url: /assets/l-onde/13.jpg
+  image_path: /assets/l-onde/13.jpg
+- url: /assets/l-onde/14.jpg
+  image_path: /assets/l-onde/14.jpg
+- url: /assets/l-onde/15.jpg
+  image_path: /assets/l-onde/15.jpg
+- url: /assets/l-onde/16.jpg
+  image_path: /assets/l-onde/16.jpg
+- url: /assets/l-onde/17.jpg
+  image_path: /assets/l-onde/17.jpg
+- url: /assets/l-onde/18.jpg
+  image_path: /assets/l-onde/18.jpg
+- url: /assets/l-onde/19.jpg
+  image_path: /assets/l-onde/19.jpg
 ---
+
 
 <i>Photos 1,2,3,5,7,8,9,11,12,13,14,15,© P.Gourvennec- / 4,6,10 © arba- </i>
 
