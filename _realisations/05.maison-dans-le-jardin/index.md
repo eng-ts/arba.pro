@@ -36,7 +36,7 @@ gallery:
 > Lauréat des « 24 heures de l’architecture » 2012
 
   * Site: Veneux-Les-Sablons / Ile-de-France
-  * Surface: 130 m2
+  * Surface: 130  m2
   * Budget: 250 000€ TTC
   * Matériaux: Plot béton, sapin du nord, tasseaux de mélèze, verre clair et sérigraphié
   * Isolation: Laine de bois

@@ -35,7 +35,7 @@ gallery:
 {% include gallery caption="Photos © Daniel Moulinet" %}
 
   * Site: Les Lilas / Ile-de-France
-  * Surface: 45m2
+  * Surface: 45 m2
   * Budget: 100 000€ TTC
   * Matériaux: Dalle béton, sapin du nord, vêture et menuiseries mélèze, béton poli
   * Isolation: Laine de bois

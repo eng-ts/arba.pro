@@ -39,7 +39,7 @@ gallery:
 {% include gallery caption="Photos © arba-" %}
 
   * Site: Gaillon / Haute-Normandie
-  * Surface: 175m2
+  * Surface: 175 m2
   * Budget: 304 000€ TTC
   * Matériaux: Longrines béton, pin du nord, zinc à joint debout, vêture et menuiserie mélèze
   * Isolation: Laine de bois

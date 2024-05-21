@@ -47,7 +47,7 @@ gallery:
 {% include gallery caption="Photos © arba-" %}
 
   * Site: Chatou / Ile de France
-  * Surface: 115m2
+  * Surface: 115 m2
   * Budget: 300 000€ TTC (livré clef en main, y compris clôtures et jardins)
   * Matériaux: Béton cellulaire, tuiles mécaniques, parquets chêne et agencements médium
   * Isolation: Laine minérale

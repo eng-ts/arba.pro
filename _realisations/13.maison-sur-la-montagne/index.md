@@ -45,7 +45,7 @@ gallery:
 {% include gallery caption="Photos © arba-" %}
 
   * Site: Poisy / Haute-Savoie
-  * Surface: 120m2
+  * Surface: 120 m2
   * Budget: 200 000€ TTC
   * Matériaux: Plot béton, sapin du Nord, HEA métal, tuiles de terre cuite, menuiserie mélèze, polyca. 32mm
   * Isolation: Laine de bois

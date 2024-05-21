@@ -49,7 +49,7 @@ gallery:
 {% include gallery caption="Photos © Kat</i> / <i>Partenaire associé M.Bouvier" %}
 
   * Site: Grosrouvre / Ile-de-France
-  * Surface: 228m2
+  * Surface: 228 m2
   * Budget: 382 000€ TTC
   * Matériaux: Dalle béton, pin du nord, tuiles de terre cuite, bardage mélèze, béton ciré, CP Okoumé
   * Isolation: Laine minérale

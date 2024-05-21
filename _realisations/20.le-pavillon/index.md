@@ -29,7 +29,7 @@ gallery:
 {% include gallery caption="Photos © arba-" %}
 
   * Site: Flexanville / Yvelines
-  * Surface: 130m2
+  * Surface: 130 m2
   * Budget: 150 000€ TTC
   * Matériaux: Plot béton, sapin du Nord, tuiles de terre cuite, panneaux OSB
   * Isolation: Laine de bois

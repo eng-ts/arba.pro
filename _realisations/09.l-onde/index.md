@@ -46,10 +46,10 @@ gallery:
 ---
 
 
-{% include gallery caption="Photos 1,2,3,5,7,8,9,11,12,13,14,15,© P.Gourvennec- / 4,6,10 © arba- </i>
+{% include gallery caption="Photos 1,2,3,5,7,8,9,11,12,13,14,15,© P.Gourvennec- / 4,6,10 © arba-" %}
 
   * Site: Murat / Cantal
-  * Surface: 75m2
+  * Surface: 75 m2
   * Budget: 205 000€ TTC
   * Matériaux: Dalle béton brut, sapin du nord, zinc prépatiné noir à joint debout, châssis et vêture mélèze
   * Chauffage: Poêle à bois

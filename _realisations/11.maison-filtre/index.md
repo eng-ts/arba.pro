@@ -36,7 +36,7 @@ gallery:
 {% include gallery caption="Photos © arba-" %}
 
   * Site: Chevreuse / Ile-de-France
-  * Surface: 110 m2
+  * Surface: 110  m2
   * Budget: 180 000€ TTC
   * Matériaux: Longrines béton, sapin du Nord, vêture mélèze, zinc pré-patiné
   * Isolation: Laine de bois

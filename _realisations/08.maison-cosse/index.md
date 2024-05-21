@@ -33,7 +33,7 @@ gallery:
 {% include gallery caption="Photos 1,2,3,4 © Hervé Abbadie / 5,6 © arba-" %}
 
   * Site: Montreuil / Ile-de-France
-  * Surface: 176m2
+  * Surface: 176 m2
   * Budget: 200 000€ TTC
   * Matériaux: Dalle béton sur VS, sapin du nord, tasseaux de mélèze, double vitrage clair
   * Isolation: Laine de bois

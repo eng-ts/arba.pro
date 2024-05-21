@@ -41,7 +41,7 @@ gallery:
 {% include gallery %}
 
   * Site: Méré / Yvelines
-  * Surface: 200 m2
+  * Surface: 200  m2
   * Budget: 315 000€ TTC
   * Matériaux: Plot béton, sapin du nord, tuiles de terre cuite, bardage mélèze
   * Isolation: Laine minérale

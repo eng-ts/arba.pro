@@ -29,7 +29,7 @@ gallery:
 *Architecte associé JL.Baldacci*
 
   * Site: Morsiglia / Haute Corse
-  * Surface: 17m2
+  * Surface: 17 m2
   * Budget: 96 000€ TTC
   * Matériaux: Longrines béton, pin Laricio, lauze, châssis et vêture mélèze
   * Chauffage: Poêle à bois

@@ -33,7 +33,7 @@ gallery:
 > Lauréat des « Lauriers de la construction bois » 2009
 
   * Site: Rouen / Haute-Normandie
-  * Surface: 110m2
+  * Surface: 110 m2
   * Budget: 140 000€ TTC
   * Matériaux: Plot béton, sapin du Nord, zinc à joints debout, pin douglas, sapin du nord brûlé
   * Isolation: Laine de bois

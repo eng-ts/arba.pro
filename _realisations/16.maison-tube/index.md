@@ -23,7 +23,7 @@ gallery:
 {% include gallery caption="Photos © arba-" %}
 
   * Site: Saint-Chéron / Ile-de-France
-  * Surface: 130m2
+  * Surface: 130 m2
   * Budget: 235 000€ TTC
   * Matériaux: Plot béton, sapin du nord, toiture végétalisé, chape anhydrite
   * Isolation: Laine de bois

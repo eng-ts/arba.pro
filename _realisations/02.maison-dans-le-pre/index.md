@@ -38,7 +38,7 @@ gallery:
 > Lauréat des « Lauriers de la construction bois » 2009
 
   * Site: Épinac / Saône et Loire
-  * Surface: 90m2
+  * Surface: 90 m2
   * Budget: 125 000€ TTC
   * Matériaux: Plot béton, pin douglas, zinc à joint debout, polycarbonate 32mm 
   * Isolation: Laine de bois

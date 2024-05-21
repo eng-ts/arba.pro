@@ -45,7 +45,7 @@ gallery:
 {% include gallery caption="Photos © F.Le Guen / agencement égoïne" %}
 
   * Site: Loisieux / Savoie
-  * Surface: 40m2
+  * Surface: 40 m2
   * Budget: 96 000€ TTC
   * Matériaux: Longrines, sapin du nord, bardeaux de cèdre rouge, menuiserie mélèze, OSB, 3 plis sapin
   * Isolation: Laine de bois

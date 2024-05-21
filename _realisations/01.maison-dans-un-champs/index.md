@@ -40,7 +40,7 @@ gallery:
 > Prix « Coup de coeur Salon Maison Bois » 2006
 
   * Site: Auvilliers / Haute-Normandie
-  * Surface: 180m2
+  * Surface: 180 m2
   * Matériaux: Plot béton, sapin du Nord, bardeaux de cèdre rouge, sapin du Nord brûlé
   * Isolation: Laine de roche
   * Chauffage: Poêle de masse

@@ -57,7 +57,7 @@ gallery:
 > Lauréat des Trophées Bois Île-de-France 2018
 
   * Site: Thomery / Seine-et-Marne
-  * Surface: 108m2
+  * Surface: 108 m2
   * Budget: 266 000€ TTC 
   * Matériaux: Longrines béton, sapin du nord, châssis aluminium, vêture CP et goudron de pin, dalles MFP
   * Chauffage: Poêle à bois

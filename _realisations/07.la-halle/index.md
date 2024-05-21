@@ -47,7 +47,7 @@ gallery:
 > Prix Habitat Durable Archinovo 2015 décerné par Fleur Pellerin
 
   * Site: Rouen / Normandie
-  * Surface: 392m2
+  * Surface: 392 m2
   * Budget: 360 000€ TTC
   * Matériaux: Sous-sol béton, sapin du nord, menuiserie et vêture mélèze, ardoise, brique
   * Isolation: Laine de bois

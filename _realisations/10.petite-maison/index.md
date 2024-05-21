@@ -45,7 +45,7 @@ gallery:
 <b>Architecte associé P.Gourvennec</b>
 
   * Site: Longueil / Haute-Normandie
-  * Surface: 20m2
+  * Surface: 20 m2
   * Budget: 98 000€
   * Matériaux: Plots béton, sapin du nord, tôle ondulée et polycarbonate, châssis et vêture mélèze
   * Chauffage: Poêle à bois
