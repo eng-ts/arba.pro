@@ -1,1 +1,1 @@
-Sitemap: https://eng-ts.github.io/arba.pro/sitemap.xml
+Sitemap: https://arba.pro/sitemap.xml
