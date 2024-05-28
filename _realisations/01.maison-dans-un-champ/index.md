@@ -1,37 +1,37 @@
 ---
-title: Maison dans un champs
+title: Maison dans un champ
 layout: single
-permalink: /maison-dans-un-champs/
+permalink: /maison-dans-un-champ/
 year: 2006
-thumbnail: /assets/maison-dans-un-champs/01_thumb.jpg
+thumbnail: /assets/maison-dans-un-champ/01_thumb.jpg
 gallery: 
-  - url: /assets/maison-dans-un-champs/01.jpg
-    image_path: /assets/maison-dans-un-champs/01.jpg
-  - url: /assets/maison-dans-un-champs/02.jpg
-    image_path: /assets/maison-dans-un-champs/02.jpg
-  - url: /assets/maison-dans-un-champs/03.jpg
-    image_path: /assets/maison-dans-un-champs/03.jpg
+  - url: /assets/maison-dans-un-champ/01.jpg
+    image_path: /assets/maison-dans-un-champ/01.jpg
+  - url: /assets/maison-dans-un-champ/02.jpg
+    image_path: /assets/maison-dans-un-champ/02.jpg
+  - url: /assets/maison-dans-un-champ/03.jpg
+    image_path: /assets/maison-dans-un-champ/03.jpg
     title: "Couverture en bois"
-  - url: /assets/maison-dans-un-champs/04.jpg
-    image_path: /assets/maison-dans-un-champs/04.jpg
-  - url: /assets/maison-dans-un-champs/05.jpg
-    image_path: /assets/maison-dans-un-champs/05.jpg
-  - url: /assets/maison-dans-un-champs/06.jpg
-    image_path: /assets/maison-dans-un-champs/06.jpg
-  - url: /assets/maison-dans-un-champs/07.jpg
-    image_path: /assets/maison-dans-un-champs/07.jpg
-  - url: /assets/maison-dans-un-champs/08.jpg
-    image_path: /assets/maison-dans-un-champs/08.jpg
-  - url: /assets/maison-dans-un-champs/09.jpg
-    image_path: /assets/maison-dans-un-champs/09.jpg
-  - url: /assets/maison-dans-un-champs/10.jpg
-    image_path: /assets/maison-dans-un-champs/10.jpg
-  - url: /assets/maison-dans-un-champs/11.jpg
-    image_path: /assets/maison-dans-un-champs/11.jpg
-  - url: /assets/maison-dans-un-champs/12.jpg
-    image_path: /assets/maison-dans-un-champs/12.jpg
-  - url: /assets/maison-dans-un-champs/13.jpg
-    image_path: /assets/maison-dans-un-champs/13.jpg
+  - url: /assets/maison-dans-un-champ/04.jpg
+    image_path: /assets/maison-dans-un-champ/04.jpg
+  - url: /assets/maison-dans-un-champ/05.jpg
+    image_path: /assets/maison-dans-un-champ/05.jpg
+  - url: /assets/maison-dans-un-champ/06.jpg
+    image_path: /assets/maison-dans-un-champ/06.jpg
+  - url: /assets/maison-dans-un-champ/07.jpg
+    image_path: /assets/maison-dans-un-champ/07.jpg
+  - url: /assets/maison-dans-un-champ/08.jpg
+    image_path: /assets/maison-dans-un-champ/08.jpg
+  - url: /assets/maison-dans-un-champ/09.jpg
+    image_path: /assets/maison-dans-un-champ/09.jpg
+  - url: /assets/maison-dans-un-champ/10.jpg
+    image_path: /assets/maison-dans-un-champ/10.jpg
+  - url: /assets/maison-dans-un-champ/11.jpg
+    image_path: /assets/maison-dans-un-champ/11.jpg
+  - url: /assets/maison-dans-un-champ/12.jpg
+    image_path: /assets/maison-dans-un-champ/12.jpg
+  - url: /assets/maison-dans-un-champ/13.jpg
+    image_path: /assets/maison-dans-un-champ/13.jpg
 ---
 
 {% include gallery caption="*Photos © Gaelle Le Boulicaut*" %}
