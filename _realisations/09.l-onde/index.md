@@ -55,7 +55,7 @@ gallery:
   * Chauffage: Poêle à bois
   * Agencement: Contreplaqué de bouleau et frêne massif local (égoïne).
 
- En écho à ses vieux toits de lauzes aux formes arrondies, portés par des chevrons qui ont ployés sous le poids de la pierre, ou par des pièces de charpentes qui n’étaient pas toutes droites, et en opposition à la raideur des toits strictement plans de l’ère moderne, cette maison est couverte d’une toiture souple et débordante, convexe sur un versant, concave sur l’autre : elle se soulève au Sud pour mieux attraper le soleil d’hiver, et se baisse au Nord pour se protéger des vents.
+ En écho à ses vieux toits de lauzes aux formes arrondies, portés par des chevrons qui ont ployé sous le poids de la pierre, ou par des pièces de charpentes qui n’étaient pas toutes droites, et en opposition à la raideur des toits strictement plans de l’ère moderne, cette maison est couverte d’une toiture souple et débordante, convexe sur un versant, concave sur l’autre : elle se soulève au Sud pour mieux attraper le soleil d’hiver, et se baisse au Nord pour se protéger des vents.
 
 Sous le toit, l’enveloppe est constituée d’un module de mélèze, plein ou vitré, fixe ou ouvrant qui décompose les parois à l’échelle familière du corps humain..
 A l’intérieur, le volume complet sous charpente est partout perceptible, mais jamais visible en totalité, ce qui permet de trouver de l’intimité dans cette enveloppe unitaire.
