@@ -47,7 +47,7 @@ Quand elles se ferment, le verre dépoli ramène l’intérieur à ses vraie
 Dans ce projet, nous avons expérimenté un thème que nous n’avons depuis jamais abandonné: la mise en scène du paysage par l’ouverture de baies lumineuses mais non-transparentes, et la dramaturgie qu’elle installe dans la pratique et la perception des espaces.
 
 Démarche environnementale:
-  * Utilisation d'un site escarpée avec un minimum de terrassement 
+  * Utilisation d'un site escarpé avec un minimum de terrassement 
   * Installation électrique biocompatible 
   * Chauffage bois et solaire passif
 
