@@ -46,7 +46,7 @@ gallery:
   * Chauffage: Poêle de masse
 
 C’est ici que l’expérience commence. Jean-Baptiste a passé 18 mois à construire cette maison de famille. En dehors du charpentier qui a monté les 4 fermes en lamellé collé, l’architecte a construit seul cette maison
-L’échelle de ce projet fait davantage référence à la chapelle ou à la grange qu’à l’habitation. La coque de bois définie un espace unique et surdimensionné dans lequel vient s’inscrire un objet sculpté.
+L’échelle de ce projet fait davantage référence à la chapelle ou à la grange qu’à l’habitation. La coque de bois définit un espace unique et surdimensionné dans lequel vient s’inscrire un objet sculpté.
 
 Sans jamais toucher l’enveloppe, celui-ci intègre la salle d’eau, l’espace de nuit et ses lits clos, l’escalier, la bibliothèque, le poêle...
 
