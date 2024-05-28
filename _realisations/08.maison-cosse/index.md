@@ -39,7 +39,7 @@ gallery:
   * Isolation: Laine de bois
   * Chauffage: Poêle à bois
 
-Cette maison a été dessinée pour un chanteur d’Opéra et sa famille. L’objectif principal était de créer un espace isolé du voisinage, mystérieux et calme. Les habitants ne voulaient ni déranger ni être déranger dans cet environnement urbain.
+Cette maison a été dessinée pour un chanteur d’Opéra et sa famille. L’objectif principal était de créer un espace isolé du voisinage, mystérieux et calme. Les habitants ne voulaient ni déranger ni être dérangés dans cet environnement urbain.
 
 Étonnamment, le	résultat peut s’apparenter à un instrument de musique.
 Une coque de mélèze enveloppe la totalité de l’espace à vivre, et oriente la maison vers le soleil du Sud en l’abritant des regards de la rue.
