@@ -44,7 +44,7 @@ gallery:
 
 La première fois que nous avons visité ce site, nous avons compris que le sujet serait ici l’échelle, l’équilibre entre notre intervention et le jardin existant.
 
-En plus d’être compact et doux, la construction devait avant tout donner l’impression d’être tout près du jardin. La ligne de gouttière et du bas de toit devait être aussi basse que possible. C’est ainsi que la partie supérieure, contenant les deux étages a été traitée de manière abstraite pour être fondue dans la canopée.
+En plus d’être compacte et douce, la construction devait avant tout donner l’impression d’être tout près du jardin. La ligne de gouttière et du bas de toit devait être aussi basse que possible. C’est ainsi que la partie supérieure, contenant les deux étages a été traitée de manière abstraite pour être fondue dans la canopée.
 
 Le niveau jardin est traité différemment, pour s’ajuster au plus près de son environnement immédiat. Des vues cadrées, traversantes, et deux accès par façade permettent cette relation de proximité. Les modules de bardage sont dessinés comme des boites redécoupées par des lignes horizontales qui contribuent à réduire l’échelle des murs pleins, et à rendre ainsi les façades accessibles à la main de l’homme.
 
