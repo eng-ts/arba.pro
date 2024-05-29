@@ -1,5 +1,4 @@
 ---
-thumbnail: /_realisations/05.mjardin/01_thumb.jpg
 title: Maison dans le Jardin
 layout: single
 permalink: /maison-dans-le-jardin/
