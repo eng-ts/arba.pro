@@ -43,9 +43,9 @@ gallery:
 
 {% include gallery caption="Photos © arba-" %}
 
-> 2ème prix National de la Construction Bois 2015​
+> 2ème prix National de la Construction Bois 2015
 
-> Lauréat du ​prix « Bois Construction Environnement de Basse-Normandie » 201​​​​​5​
+> Lauréat du prix « Bois Construction Environnement de Basse-Normandie » 2015
 
   * Site : Lisieux / Basse-Normandie
   * Surface : 78 m2

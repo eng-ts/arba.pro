@@ -4,7 +4,7 @@ date:
 - m2
 content: 
 
-<i>​​Architecte associé ​JL​.B​aldacci​</i>
+<i>Architecte associé JL.Baldacci</i>
 <br><br>&bull; Site : Rue Piat, Paris / île-de-France
 <br>&bull; Surface : 870m2
 <br>&bull; Budget : 2,5M €
