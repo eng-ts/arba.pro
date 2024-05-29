@@ -16,7 +16,7 @@ Les projets présentés ici regroupent une partie de nos réalisations et de nos
 Ils sont le fruit du dialogue entre les deux architectes, dans un processus de lissage de l’objet.
 Ici, le budget et les restrictions urbaines ne sont pas des contraintes, mais font partie intégrante de la conception. 
 Un effort constant est produit pour bannir in fine toute trace d’intention, à l’image de l’architecture vernaculaire.
-A la place, ici, ce qui prime ce sont les usagers, le paysage, le site, les matériaux et la main de l’artisan...
+A la place, ici, ce qui prime ce sont les usagers, le paysage, le site, les matériaux et la main de l’artisan…
 Nous sommes reconnaissants envers ceux qui nous ont fait confiance et nous ont permis de les accompagner dans la réalisation de leurs rêves. Le temps d’un projet, ces rêves sont aussi devenus les nôtres.
 
 **Jean-baptiste Barache**

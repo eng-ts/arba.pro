@@ -48,7 +48,7 @@ gallery:
 C’est ici que l’expérience commence. Jean-Baptiste a passé 18 mois à construire cette maison de famille. En dehors du charpentier qui a monté les 4 fermes en lamellé collé, l’architecte a construit seul cette maison
 L’échelle de ce projet fait davantage référence à la chapelle ou à la grange qu’à l’habitation. La coque de bois définit un espace unique et surdimensionné dans lequel vient s’inscrire un objet sculpté.
 
-Sans jamais toucher l’enveloppe, celui-ci intègre la salle d’eau, l’espace de nuit et ses lits clos, l’escalier, la bibliothèque, le poêle...
+Sans jamais toucher l’enveloppe, celui-ci intègre la salle d’eau, l’espace de nuit et ses lits clos, l’escalier, la bibliothèque, le poêle…
 
 Toute la vêture intérieure, composée de panneaux de contre-plaqué de pin, est douce et chaleureuse, en opposition à la peaux extérieure brute et rugueuse.
 Cette peau naturelle se patine dans le temps et donne l’impression d’une bâtisse sans âge, qui aurait toujours été là.
