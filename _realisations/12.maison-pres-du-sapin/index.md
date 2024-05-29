@@ -51,7 +51,7 @@ gallery:
   * Isolation : Laine de bois
   * Chauffage : Poêle à bois
 
-Ce projet, dans un petit village de Savoie, a été conçu pour un joueur de flûte qui souhaitait un grand volume dans une petite maison ; inspiré d’avantage du sapin voisin, que de l’architecture locale, il nous ramène à l’enfance.
+Ce projet, dans un petit village de Savoie, a été conçu pour un joueur de flûte qui souhaitait un grand volume dans une petite maison ; inspiré d’avantage du sapin voisin, que de l’architecture locale, il nous ramène à l’enfance.
 Un grand toit protecteur vient abriter sans le toucher un plateau de bois de cinquante mètres carrés.
 L’espace de vie en double hauteur distribue des couchages, une salle d’eau, des sanitaires, un cellier et le refuge, situé juste sous le faîtage.
 
