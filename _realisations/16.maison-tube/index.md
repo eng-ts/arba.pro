@@ -29,7 +29,7 @@ gallery:
   * Isolation: Laine de bois
   * Chauffage: Pompe à chaleur et planchers chauffants
 
-C’est la configuration du site qui nous a mené à cette forme tubulaire. La maison s’ouvre vers l’espace public au Nord, vers le soleil au Sud, et se protège délibérément des constructions voisines proches sur ses autres orientations.
+C’est la configuration du site qui nous a menés à cette forme tubulaire. La maison s’ouvre vers l’espace public au Nord, vers le soleil au Sud, et se protège délibérément des constructions voisines proches sur ses autres orientations.
 La déformation du prisme est guidée par le degré d’ouverture souhaité aux deux extrémités.
 Vers le Nord et l’accès à la parcelle, où se trouve l’entrée de la maison et le bureau professionnel, l’ouverture est limitée;
 Elle est au contraire beaucoup plus généreuse de l’autre côté, où les espaces de vie sont orientés vers le soleil et le paysage.
