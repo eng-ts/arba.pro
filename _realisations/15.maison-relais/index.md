@@ -38,17 +38,17 @@ gallery:
 
 {% include gallery caption="Photos © arba-" %}
 
-  * Site: Gaillon / Haute-Normandie
-  * Surface: 175 m2
-  * Budget: 304 000€ TTC
-  * Matériaux: Longrines béton, pin du nord, zinc à joint debout, vêture et menuiserie mélèze
-  * Isolation: Laine de bois
-  * Chauffage: Poêle à bois et puits canadien
+  * Site : Gaillon / Haute-Normandie
+  * Surface : 175 m2
+  * Budget : 304 000€ TTC
+  * Matériaux : Longrines béton, pin du nord, zinc à joint debout, vêture et menuiserie mélèze
+  * Isolation : Laine de bois
+  * Chauffage : Poêle à bois et puits canadien
 
 Le bois est un matériau ayant une faible inertie. Ce manque d’inertie peut être le point faible des constructions en bois où les calories ne sont pas stockées pour une diffusion différée. Des sols en béton, des volumes de pierres ou de briques peuvent compenser ce manque.
-Dans cette maison nous avons expérimenté un élément plus sophistiqué :  une réseau de mur creux en brique.
-Cette « gaine maçonnée », situé à un mètre de la façade Sud, est connecté à un puits canadien qui le maintient en surpression, et au conduit du poêle.
-Il est régulièrement percé de bouches de ventilation .
-Ainsi, il peut fonctionner soit en rayonnement en diffusant lentement les calories apportées par l’effet conjugué du poêle à bois, et de l’effet de serre…ou en convection, lorsqu’on ouvre les bouches de ventilations dans les espaces de vie.
+Dans cette maison nous avons expérimenté un élément plus sophistiqué :  un réseau de mur creux en brique.
+Cette « gaine maçonnée », située à un mètre de la façade sud, est connectée à un puits canadien qui la maintient en surpression, et au conduit du poêle.
+Elle est régulièrement percée de bouches de ventilation .
+Ainsi, elle peut fonctionner soit en rayonnement en diffusant lentement les calories apportées par l’effet conjugué du poêle à bois, et de l’effet de serre…ou en convection, lorsqu’on ouvre les bouches de ventilations dans les espaces de vie.
 
 En été les rayons n’atteignent ni le mur de brique ni les baies. Le mur, rafraîchi par le puits canadien, devient climatiseur de toute la maison. Le chauffage est ici mis en scène dans un jeu ludique avec les éléments…

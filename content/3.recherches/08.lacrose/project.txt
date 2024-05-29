@@ -2,10 +2,10 @@ title: Lac Rose (Sénégal) | 2007
 -
 date:
 -
-content: 
-<br>&bull; Site: Lac Rose / Sénégal
-<br>&bull; Surface: 200 m2
-<br>&bull; Budget: 75 000€
+content:
+<br>&bull; Site : Lac Rose / Sénégal
+<br>&bull; Surface : 200 m2
+<br>&bull; Budget : 75 000€
 
 Après avoir été étudié ce qu’il reste de l’architecture traditionnelle sénégalaise, nous avons proposé ce projet, qui emprunte le vocabulaire vernaculaire, dans une recherche d’optimisation contemporaine.
 Dans cette région où il fait très chaud, nous avons cherché l’ombre et le vent.

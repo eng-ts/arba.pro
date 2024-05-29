@@ -48,12 +48,12 @@ gallery:
 
 {% include gallery caption="Photos © Kat</i> / <i>Partenaire associé M.Bouvier" %}
 
-  * Site: Grosrouvre / Ile-de-France
-  * Surface: 228 m2
-  * Budget: 382 000€ TTC
-  * Matériaux: Dalle béton, pin du nord, tuiles de terre cuite, bardage mélèze, béton ciré, CP Okoumé
-  * Isolation: Laine minérale
-  * Chauffage: Planchers chauffants sur géothermie
+  * Site : Grosrouvre / Ile-de-France
+  * Surface : 228 m2
+  * Budget : 382 000€ TTC
+  * Matériaux : Dalle béton, pin du nord, tuiles de terre cuite, bardage mélèze, béton ciré, CP Okoumé
+  * Isolation : Laine minérale
+  * Chauffage : Planchers chauffants sur géothermie
 
 La réglementation laissait peu de liberté pour la forme extérieure de la maison. Les proportions, les dimensions et les matériaux sont à peu près les mêmes que les autres bâtiments du village.
 Cependant à l’intérieur tout restait possible. Nous étions parfaitement libres de créer une atmosphère pure, lumineuse et colorée.

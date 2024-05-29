@@ -40,12 +40,12 @@ gallery:
 
 {% include gallery %}
 
-  * Site: Méré / Yvelines
-  * Surface: 200  m2
-  * Budget: 315 000€ TTC
-  * Matériaux: Plot béton, sapin du nord, tuiles de terre cuite, bardage mélèze
-  * Isolation: Laine minérale
-  * Chauffage: Pompe à chaleur et planchers chauffants
+  * Site : Méré / Yvelines
+  * Surface : 200  m2
+  * Budget : 315 000€ TTC
+  * Matériaux : Plot béton, sapin du nord, tuiles de terre cuite, bardage mélèze
+  * Isolation : Laine minérale
+  * Chauffage : Pompe à chaleur et planchers chauffants
 
 Pour cette maison, située dans une clairière de la forêt de Rambouillet, l’objectif était de retrouver la texture de la forêt pour que la maison ne constitue pas une barrière opaque dans le paysage, mais laisse au contraire deviner ce qui se passe derrière. Ainsi, entre l’intérieur et l’extérieur, plusieurs couches régulent la connexion avec la forêt.
   

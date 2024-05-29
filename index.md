@@ -2,9 +2,9 @@
 title: ''
 layout: archive
 gallery:
-- url: /maison-dans-un-champs/
-  image_path: /assets/maison-dans-un-champs/01.jpg
-  alt: Maison dans un champs
+- url: /maison-dans-un-champ/
+  image_path: /assets/maison-dans-un-champ/01.jpg
+  alt: Maison dans un champ
 - url: /maison-dans-le-pre/
   image_path: /assets/maison-dans-le-pre/01.jpg
   alt: "Maison dans le pr\xE9"

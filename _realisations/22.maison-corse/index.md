@@ -29,15 +29,15 @@ gallery:
 
 *Architecte associé JL.Baldacci*
 
-  * Site: Morsiglia / Haute Corse
-  * Surface: 17 m2
-  * Budget: 96 000€ TTC
-  * Matériaux: Longrines béton, pin Laricio, lauze, châssis et vêture mélèze
-  * Chauffage: Poêle à bois
+  * Site : Morsiglia / Haute Corse
+  * Surface : 17 m2
+  * Budget : 96 000€ TTC
+  * Matériaux : Longrines béton, pin laricio, lauze, châssis et vêture mélèze
+  * Chauffage : Poêle à bois
 
 Pour profiter du cap Corse sans dénaturer ce magnifique paysage, cette petite intendance aux allures de cabane de berger vient se poser sans dérangement entre deux murets construits par les anciens sur un site à fort dénivelé.
 La limite épaisse constituée des châssis vitrés coulissants, de la coursive extérieure, et des volets de pin laricio en deuxième plan, forme une transition douce entre dedans et dehors et permet de régler précisément la relation au site au fil des heures et des saisons.
-On accède aux différends espaces de la maison (couchage, douche, salon…) par la coursive extérieure qui favorise ainsi la relation des habitants à la nature… et fait de cette maison un habitat poétique, minimaliste et stimulant.
+On accède aux différents espaces de la maison (couchage, douche, salon…) par la coursive extérieure qui favorise ainsi la relation des habitants à la nature… et fait de cette maison un habitat poétique, minimaliste et stimulant.
 
 
 <video width="660" height="440" controls="controls">
