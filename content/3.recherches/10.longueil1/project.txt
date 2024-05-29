@@ -2,10 +2,10 @@ title: Longueil #1 | 2009
 -
 date:
 -
-content: 
-<br>&bull; Site: Longueil / Haute-Normandie
-<br>&bull; Surface: 80 m2
-<br>&bull; Budget: 90 000€
+content:
+<br>&bull; Site : Longueil / Haute-Normandie
+<br>&bull; Surface : 80 m2
+<br>&bull; Budget : 90 000€
 
 Une maison traverse un jardin; puis c’est le jardin qui la traverse à son tour.
  

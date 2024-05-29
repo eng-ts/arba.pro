@@ -35,12 +35,12 @@ gallery:
 
 > Lauréat des « 24 heures de l’architecture » 2012
 
-  * Site: Veneux-Les-Sablons / Ile-de-France
-  * Surface: 130  m2
-  * Budget: 250 000€ TTC
-  * Matériaux: Plot béton, sapin du nord, tasseaux de mélèze, verre clair et sérigraphié
-  * Isolation: Laine de bois
-  * Chauffage: Poêle à bois
+  * Site : Veneux-Les-Sablons / Ile-de-France
+  * Surface : 130  m2
+  * Budget : 250 000€ TTC
+  * Matériaux : Plot béton, sapin du nord, tasseaux de mélèze, verre clair et sérigraphié
+  * Isolation : Laine de bois
+  * Chauffage : Poêle à bois
 
 La première fois que nous avons visité ce site, nous avons compris que le sujet serait ici l’échelle, l’équilibre entre notre intervention et le jardin existant.
 
@@ -48,7 +48,7 @@ En plus d’être compacte et douce, la construction devait avant tout donner l
 
 Le niveau jardin est traité différemment, pour s’ajuster au plus près de son environnement immédiat. Des vues cadrées, traversantes, et deux accès par façade permettent cette relation de proximité. Les modules de bardage sont dessinés comme des boites redécoupées par des lignes horizontales qui contribuent à réduire l’échelle des murs pleins, et à rendre ainsi les façades accessibles à la main de l’homme.
 
-Démarche environnementale:
+Démarche environnementale :
   * Utilisation du site sans terrassement 
   * Installation électrique biocompatible 
   * Chauffage bois et solaire passif 

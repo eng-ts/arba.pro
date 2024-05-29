@@ -4,9 +4,9 @@ date:
 -
 content: 
 
-<br><br>&bull; Site: La Ferté Milon / Picardie
-<br>&bull; Surface: 115 m2
-<br>&bull; Budget: 230 000€
+<br><br>&bull; Site : La Ferté Milon / Picardie
+<br>&bull; Surface : 115 m2
+<br>&bull; Budget : 230 000€
 
 Cette maison aux allures de grange, construite dans un hameau de Picardie, est destinée au chef de culture d’une exploitation agricole.
 Elle reprend le vocabulaire constructif du bâtiment agricole : bac acier, bardage de tôle perforée, treillis ou bardage bois…tous teinté noir ; ce camaïeu produit un effet à la fois monolithique et aéré.

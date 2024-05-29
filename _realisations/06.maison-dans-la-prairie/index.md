@@ -47,12 +47,12 @@ gallery:
 
 > Lauréat du ​prix « Bois Construction Environnement de Basse-Normandie » 201​​​​​5​
 
-  * Site: Lisieux / Basse-Normandie
-  * Surface: 78 m2
-  * Budget: 136 000€ TTC
-  * Matériaux: Plot béton, sapin du nord, bac acier, vêture et menuiseries mélèze
-  * Isolation: Laine de bois
-  * Chauffage: Poêle à bois
+  * Site : Lisieux / Basse-Normandie
+  * Surface : 78 m2
+  * Budget : 136 000€ TTC
+  * Matériaux : Plot béton, sapin du nord, bac acier, vêture et menuiseries mélèze
+  * Isolation : Laine de bois
+  * Chauffage : Poêle à bois
 
 Construire avec un petit budget ne signifie pas nécessairement sacrifier la qualité d’un projet architectural.En revanche, cela entraine un processus d’optimisation intense.Pour ce projet, l’espace de vie et de travail de deux personnes est condensé sur 78m².
 
@@ -61,7 +61,7 @@ Une longue réflexion a été menée pour placer l’énergie et l’argent avec
 Des châssis en mélèze coulissent le long des façades. Chaque châssis est composé d’un carré de verre transparent encadré de verre sablé, dessinant ainsi des cadrages soignés sur le paysage.
 Une fois ouverts, les panneaux disparaissent complètement dénudant la moitié de la façade. La maison devient béante et la prairie ‘aspirée’ à l’intérieur.
 
-Démarche environnementale: 
+Démarche environnementale : 
   * Utilisation du site sans terrassement 
   * Toilettes sèches et phyto-épuration 
   * Chauffage bois et solaire passif 

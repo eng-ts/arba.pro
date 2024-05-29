@@ -10,7 +10,7 @@ arba- est né à Paris en 2007 de l’association de deux architectes, Jean Bapt
 
 arba- se consacre au développement de nouvelles solutions visant à construire de manière durable, abordable et en étroite relation avec l’environnement naturel et bâti. 
 
-arba- conçoit des architectures fonctionnelles, simples et optimales. Leur principal but: « servir d’abri » n’est pas séparable du second : « donner à voir ». De telles architectures se rapportent plus à des instruments qu’à des bâtiments. Comme pour les instruments de musique, les lignes et les formes sont pures et minimales, tout en permettant une utilisation optimale. L’habitant est naturellement impliqué dans un jeu d’usages et d’interactions avec le jardin, les voisins, le paysage, le soleil, la lumière…
+arba- conçoit des architectures fonctionnelles, simples et optimales. Leur principal but : « servir d’abri » n’est pas séparable du second : « donner à voir ». De telles architectures se rapportent plus à des instruments qu’à des bâtiments. Comme pour les instruments de musique, les lignes et les formes sont pures et minimales, tout en permettant une utilisation optimale. L’habitant est naturellement impliqué dans un jeu d’usages et d’interactions avec le jardin, les voisins, le paysage, le soleil, la lumière…
 
 Les projets présentés ici regroupent une partie de nos réalisations et de nos expérimentations. 
 Ils sont le fruit du dialogue entre les deux architectes, dans un processus de lissage de l’objet.

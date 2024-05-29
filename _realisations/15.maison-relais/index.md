@@ -38,12 +38,12 @@ gallery:
 
 {% include gallery caption="Photos © arba-" %}
 
-  * Site: Gaillon / Haute-Normandie
-  * Surface: 175 m2
-  * Budget: 304 000€ TTC
-  * Matériaux: Longrines béton, pin du nord, zinc à joint debout, vêture et menuiserie mélèze
-  * Isolation: Laine de bois
-  * Chauffage: Poêle à bois et puits canadien
+  * Site : Gaillon / Haute-Normandie
+  * Surface : 175 m2
+  * Budget : 304 000€ TTC
+  * Matériaux : Longrines béton, pin du nord, zinc à joint debout, vêture et menuiserie mélèze
+  * Isolation : Laine de bois
+  * Chauffage : Poêle à bois et puits canadien
 
 Le bois est un matériau ayant une faible inertie. Ce manque d’inertie peut être le point faible des constructions en bois où les calories ne sont pas stockées pour une diffusion différée. Des sols en béton, des volumes de pierres ou de briques peuvent compenser ce manque.
 Dans cette maison nous avons expérimenté un élément plus sophistiqué :  un réseau de mur creux en brique.

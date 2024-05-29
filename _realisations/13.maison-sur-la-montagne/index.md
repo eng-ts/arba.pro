@@ -44,12 +44,12 @@ gallery:
 
 {% include gallery caption="Photos © arba-" %}
 
-  * Site: Poisy / Haute-Savoie
-  * Surface: 120 m2
-  * Budget: 200 000€ TTC
-  * Matériaux: Plot béton, sapin du Nord, HEA métal, tuiles de terre cuite, menuiserie mélèze, polyca. 32mm
-  * Isolation: Laine de bois
-  * Chauffage: Poêle à bois
+  * Site : Poisy / Haute-Savoie
+  * Surface : 120 m2
+  * Budget : 200 000€ TTC
+  * Matériaux : Plot béton, sapin du Nord, HEA métal, tuiles de terre cuite, menuiserie mélèze, polyca. 32mm
+  * Isolation : Laine de bois
+  * Chauffage : Poêle à bois
 
 Lorsqu’ils sont venus nous consulter, nos clients étaient désespérés car un précédant projet, sur ce site en forte pente au-dessus d’Annecy, engloutissait leur budget uniquement dans les fondations.
 Nous avons pris le parti de ne pas toucher au site, mais d’ancrer la maison dans le rocher existant, se dispensant ainsi de  terrassement et de fondations onéreux dans cette zone sismique.

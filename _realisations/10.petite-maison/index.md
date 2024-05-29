@@ -46,11 +46,11 @@ gallery:
 
 *Architecte associé P.Gourvennec*
 
-  * Site: Longueil / Haute-Normandie
-  * Surface: 20 m2
-  * Budget: 98 000€
-  * Matériaux: Plots béton, sapin du nord, tôle ondulée et polycarbonate, châssis et vêture mélèze
-  * Chauffage: Poêle à bois
+  * Site : Longueil / Haute-Normandie
+  * Surface : 20 m2
+  * Budget : 98 000€
+  * Matériaux : Plots béton, sapin du nord, tôle ondulée et polycarbonate, châssis et vêture mélèze
+  * Chauffage : Poêle à bois
 
 Il s’agit cette fois de construire un habitat minimal pour profiter du beau jardin existant et de la proximité de la mer, une intendance permettant de vivre le site de manière confortable et stimulante. Les vingt mètres carrés de surface de plancher permettent de trouver une salle à manger, un bow-window avec vue sur la mer, faisant office de salon, une salle d’eau, une cuisine, des couchages pour cinq personnes, des sanitaires, et des rangements.
 

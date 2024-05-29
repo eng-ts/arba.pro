@@ -3,9 +3,9 @@ title: Baie Sud | 2009
 date:
 -
 content: 
-<br>&bull; Site: Poitou Charentes
-<br>&bull; Surface: 80 m2
-<br>&bull; Budget: 80 000€
+<br>&bull; Site : Poitou Charentes
+<br>&bull; Surface : 80 m2
+<br>&bull; Budget : 80 000€
 
 Cette maison de 80m² conçue en collaboration avec le constructeur, et un bureau d’étude thermique, est certifiée maison basse consommation, et coûte 80.000€.
  

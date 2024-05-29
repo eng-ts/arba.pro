@@ -5,12 +5,12 @@ date:
 content: 
 
 <i>​​Architecte associé ​JL​.B​aldacci​</i>
-<br><br>&bull; Site: Rue Piat, Paris / île-de-France
-<br>&bull; Surface: 870m2
-<br>&bull; Budget: 2,5M €
-<br>&bull; Matériaux: Panneaux de CLT, vêture mélèze et béton.
-<br>&bull; Isolation: Laine de roche
-Démarche environnementale: 
+<br><br>&bull; Site : Rue Piat, Paris / île-de-France
+<br>&bull; Surface : 870m2
+<br>&bull; Budget : 2,5M €
+<br>&bull; Matériaux : Panneaux de CLT, vêture mélèze et béton.
+<br>&bull; Isolation : Laine de roche
+Démarche environnementale : 
 <br>&bull; Solaire passif  <br>&bull; Gestion informatisé de la ventilation naturelle et des apports caloriques
 <br>&bull; Chauffe eau solaire 
 <br>&bull; Potagers + compost

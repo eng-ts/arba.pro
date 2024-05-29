@@ -3,9 +3,9 @@ title: Chatou | 2014
 date:
 -
 content: 
-<br>&bull; Site: Chatou / Ile-de-France
-<br>&bull; Surface: 137 m2
-<br>&bull; Budget: 240 000€
+<br>&bull; Site : Chatou / Ile-de-France
+<br>&bull; Surface : 137 m2
+<br>&bull; Budget : 240 000€
 
 L'objectif de ce projet était de proposer en sous-sol un vrai espace habitable et agréable, de manière à rentabiliser le gabarit constructible.
 

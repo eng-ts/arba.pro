@@ -32,9 +32,9 @@ gallery:
 
 *Architecte associés P.Gourvennec / Archi.Tech*
 
-  * Site: Alfortville / Ile-de-France
-  * Surface: 50 m2
-  * Budget: 100 000€
+  * Site : Alfortville / Ile-de-France
+  * Surface : 50 m2
+  * Budget : 100 000€
 
 Nous avons apprécié concevoir cette extension pour des clients demandeurs d’élégance et de sobriété.
 L’existant était agréable, en grande partie grâce à une série de roseaux qui filtraient la lumière et transmettaient leurs vibrations aux intérieurs ; nous avons tiré ce fil…

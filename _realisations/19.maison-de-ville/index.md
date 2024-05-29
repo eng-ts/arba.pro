@@ -46,12 +46,12 @@ gallery:
 
 {% include gallery caption="Photos © arba-" %}
 
-  * Site: Chatou / Ile de France
-  * Surface: 115 m2
-  * Budget: 300 000€ TTC (livré clef en main, y compris clôtures et jardins)
-  * Matériaux: Béton cellulaire, tuiles mécaniques, parquets chêne et agencements médium
-  * Isolation: Laine minérale
-  * Chauffage: poêle à granule
+  * Site : Chatou / Ile de France
+  * Surface : 115 m2
+  * Budget : 300 000€ TTC (livré clef en main, y compris clôtures et jardins)
+  * Matériaux : Béton cellulaire, tuiles mécaniques, parquets chêne et agencements médium
+  * Isolation : Laine minérale
+  * Chauffage : poêle à granule
 
  Cette maison construite dans le site classé de Chatou était destinée à devenir un bien immobilier de bonne valeur.
 Dans une enveloppe classique, reprenant le volume, l’échelle et le vocabulaire du bâti local, nous avons travaillé sur le traitement des façades : côté rue, trois baies verticales équipées de treillis et tableaux en mélèze structurent l'ensemble des ouvertures et renvoient au passant une présence discrète et mystérieuse.

@@ -46,12 +46,12 @@ gallery:
 
 > Prix Habitat Durable Archinovo 2015 décerné par Fleur Pellerin
 
-  * Site: Rouen / Normandie
-  * Surface: 392 m2
-  * Budget: 360 000€ TTC
-  * Matériaux: Sous-sol béton, sapin du nord, menuiserie et vêture mélèze, ardoise, brique
-  * Isolation: Laine de bois
-  * Chauffage: Poêle à bois
+  * Site : Rouen / Normandie
+  * Surface : 392 m2
+  * Budget : 360 000€ TTC
+  * Matériaux : Sous-sol béton, sapin du nord, menuiserie et vêture mélèze, ardoise, brique
+  * Isolation : Laine de bois
+  * Chauffage : Poêle à bois
 
 Cette variation sur la halle Normande  synthétise en une forme simple les contraintes d’un programme et d’un site complexe.
 Il s’agissait de concevoir l’habitation principale d’une famille Rouennaise, des bureaux, et un espace  de stockage de vêtements destinés à la vente.

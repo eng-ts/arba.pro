@@ -34,12 +34,12 @@ gallery:
 
 {% include gallery caption="Photos © Daniel Moulinet" %}
 
-  * Site: Les Lilas / Ile-de-France
-  * Surface: 45 m2
-  * Budget: 100 000€ TTC
-  * Matériaux: Dalle béton, sapin du nord, vêture et menuiseries mélèze, béton poli
-  * Isolation: Laine de bois
-  * Chauffage: Poêle à bois
+  * Site : Les Lilas / Ile-de-France
+  * Surface : 45 m2
+  * Budget : 100 000€ TTC
+  * Matériaux : Dalle béton, sapin du nord, vêture et menuiseries mélèze, béton poli
+  * Isolation : Laine de bois
+  * Chauffage : Poêle à bois
 
 Implantée au fond du jardin, cette petite  construction permet de soulager une maison principale en donnant au père un bureau -réalisateur de cinéma- et un studio à la plus grande fille en voie d’émancipation.
 

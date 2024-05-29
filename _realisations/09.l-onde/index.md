@@ -48,12 +48,12 @@ gallery:
 
 {% include gallery caption="Photos 1,2,3,5,7,8,9,11,12,13,14,15,© P.Gourvennec- / 4,6,10 © arba-" %}
 
-  * Site: Murat / Cantal
-  * Surface: 75 m2
-  * Budget: 205 000€ TTC
-  * Matériaux: Dalle béton brut, sapin du nord, zinc prépatiné noir à joint debout, châssis et vêture mélèze
-  * Chauffage: Poêle à bois
-  * Agencement: Contreplaqué de bouleau et frêne massif local (égoïne).
+  * Site : Murat / Cantal
+  * Surface : 75 m2
+  * Budget : 205 000€ TTC
+  * Matériaux : Dalle béton brut, sapin du nord, zinc prépatiné noir à joint debout, châssis et vêture mélèze
+  * Chauffage : Poêle à bois
+  * Agencement : Contreplaqué de bouleau et frêne massif local (égoïne).
 
  En écho à ses vieux toits de lauzes aux formes arrondies, portés par des chevrons qui ont ployé sous le poids de la pierre, ou par des pièces de charpentes qui n’étaient pas toutes droites, et en opposition à la raideur des toits strictement plans de l’ère moderne, cette maison est couverte d’une toiture souple et débordante, convexe sur un versant, concave sur l’autre : elle se soulève au Sud pour mieux attraper le soleil d’hiver, et se baisse au Nord pour se protéger des vents.
 

@@ -2,10 +2,10 @@ title: La Guette | 2009
 -
 date:
 -
-content: 
-<br>&bull; Site: Isle-sur-serein / Yonne
-<br>&bull; Surface: 80 m2
-<br>&bull; Budget: 110 000€
+content:
+<br>&bull; Site : Isle-sur-serein / Yonne
+<br>&bull; Surface : 80 m2
+<br>&bull; Budget : 110 000€
 
 Le soleil est le plus prévisible des éléments de la nature. On ne peut certes pas prédire quand s’il sera caché ou non, mais on peut connaître sa course avec exactitude. 
 

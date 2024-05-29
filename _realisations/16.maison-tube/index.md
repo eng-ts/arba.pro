@@ -22,12 +22,12 @@ gallery:
 
 {% include gallery caption="Photos © arba-" %}
 
-  * Site: Saint-Chéron / Ile-de-France
-  * Surface: 130 m2
-  * Budget: 235 000€ TTC
-  * Matériaux: Plot béton, sapin du nord, toiture végétalisé, chape anhydrite
-  * Isolation: Laine de bois
-  * Chauffage: Pompe à chaleur et planchers chauffants
+  * Site : Saint-Chéron / Ile-de-France
+  * Surface : 130 m2
+  * Budget : 235 000€ TTC
+  * Matériaux : Plot béton, sapin du nord, toiture végétalisé, chape anhydrite
+  * Isolation : Laine de bois
+  * Chauffage : Pompe à chaleur et planchers chauffants
 
 C’est la configuration du site qui nous a menés à cette forme tubulaire. La maison s’ouvre vers l’espace public au Nord, vers le soleil au Sud, et se protège délibérément des constructions voisines proches sur ses autres orientations.
 La déformation du prisme est guidée par le degré d’ouverture souhaité aux deux extrémités.
