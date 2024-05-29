@@ -59,7 +59,7 @@ Construire avec un petit budget ne signifie pas nécessairement sacrifier la qua
 Une longue réflexion a été menée pour placer l’énergie et l’argent avec justesse. A l’exception du dispositif d’ouverture, tout est minimal et basique dans cette maison. Sa générosité se trouve dans la manière de s’ouvrir et de regarder la prairie.
 
 Des châssis en mélèze coulissent le long des façades. Chaque châssis est composé d’un carré de verre transparent encadré de verre sablé, dessinant ainsi des cadrages soignés sur le paysage.
-Une fois ouverts, les panneaux disparaissent complètement dénudant la moitié de la façade. La maison devient béante et la prairie ‘aspirée’ à l’intérieur.
+Une fois ouverts, les panneaux disparaissent complètement dénudant la moitié de la façade. La maison devient béante et la prairie « aspirée » à l’intérieur.
 
 Démarche environnementale : 
   * Utilisation du site sans terrassement 
