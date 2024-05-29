@@ -47,7 +47,7 @@ gallery:
 
 Le bois est un matériau ayant une faible inertie. Ce manque d’inertie peut être le point faible des constructions en bois où les calories ne sont pas stockées pour une diffusion différée. Des sols en béton, des volumes de pierres ou de briques peuvent compenser ce manque.
 Dans cette maison nous avons expérimenté un élément plus sophistiqué :  un réseau de mur creux en brique.
-Cette « gaine maçonnée », située à un mètre de la façade Sud, est connectée à un puits canadien qui la maintient en surpression, et au conduit du poêle.
+Cette « gaine maçonnée », située à un mètre de la façade sud, est connectée à un puits canadien qui la maintient en surpression, et au conduit du poêle.
 Elle est régulièrement percée de bouches de ventilation .
 Ainsi, elle peut fonctionner soit en rayonnement en diffusant lentement les calories apportées par l’effet conjugué du poêle à bois, et de l’effet de serre…ou en convection, lorsqu’on ouvre les bouches de ventilations dans les espaces de vie.
 

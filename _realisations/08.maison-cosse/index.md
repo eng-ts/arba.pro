@@ -42,7 +42,7 @@ gallery:
 Cette maison a été dessinée pour un chanteur d’Opéra et sa famille. L’objectif principal était de créer un espace isolé du voisinage, mystérieux et calme. Les habitants ne voulaient ni déranger ni être dérangés dans cet environnement urbain.
 
 Étonnamment, le	résultat peut s’apparenter à un instrument de musique.
-Une coque de mélèze enveloppe la totalité de l’espace à vivre, et oriente la maison vers le soleil du Sud en l’abritant des regards de la rue.
+Une coque de mélèze enveloppe la totalité de l’espace à vivre, et oriente la maison vers le soleil du sud en l’abritant des regards de la rue.
 Elle contient trois logements sur trois niveaux habitables : deux studios au rez-de-jardin, un loft à l’étage, et une terrasse ajourée au deuxième étage qui permet de regarder au calme le paysage ensoleillé de la fabrique urbaine.
 
 Démarche environnementale :

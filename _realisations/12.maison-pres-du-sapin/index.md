@@ -56,8 +56,8 @@ Un grand toit protecteur vient abriter sans le toucher un plateau de bois de cin
 L’espace de vie en double hauteur distribue des couchages, une salle d’eau, des sanitaires, un cellier et le refuge, situé juste sous le faîtage.
 
 Il est prolongé vers l’extérieur par la terrasse et les débords de toit qui brouillent la limite dedans/dehors.
-L’ouverture du toit vers le Sud projette l’espace de la maison vers le ciel et la vallée, en laissant généreusement entrer le soleil d’hiver.
+L’ouverture du toit vers le sud projette l’espace de la maison vers le ciel et la vallée, en laissant généreusement entrer le soleil d’hiver.
 
-Des ouvertures entre le plancher et les rives du toit ménagent des vues plongeantes sur le jardin immédiat, alors que cinq petits ouvrants cadrent le versant au Nord et organisent la ventilation naturelle.
+Des ouvertures entre le plancher et les rives du toit ménagent des vues plongeantes sur le jardin immédiat, alors que cinq petits ouvrants cadrent le versant au nord et organisent la ventilation naturelle.
 Le fait qu’en dehors de quelques agencements, le charpentier ait livré la totalité de la construction l’apparente davantage à un atelier qu’à une habitation : les panneaux d’osb assurant le contreventement et le pare vapeur constituent aussi la finition intérieure…
 Le second œuvre est alors réduit à sa plus simple expression avec une façade intérieure et deux paillasses en 3 plis sapin.

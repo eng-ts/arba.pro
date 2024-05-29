@@ -10,7 +10,7 @@ content:
 Cette maison de 80m² conçue en collaboration avec le constructeur, et un bureau d’étude thermique, est certifiée maison basse consommation, et coûte 80.000€.
  
 Le projet est basé sur quelques principes  simples :
- - solaire passif avec une baie vitrée orientée plein Sud, un débord de toit, et une coursive/protection solaire.
+ - solaire passif avec une baie vitrée orientée plein sud, un débord de toit, et une coursive/protection solaire.
  - stockage des calories dans trois murs intérieur de briques de terre cuite.
 - ventilation  naturelle  privilégiée.
 - utilisation de matériaux bruts, solides et pérennes, en évitant les traitements de surface.

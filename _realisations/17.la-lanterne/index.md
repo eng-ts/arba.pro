@@ -45,7 +45,7 @@ Implantée au fond du jardin, cette petite  construction permet de soulager une 
 
 Cette maison, composée d'une série d’écrans réglables, est dessinée comme un objet abstrait traversé par le jardin. La nuit, elle se transforme en lanterne qui éclaire discrètement le site.
 
-Afin de profiter du soleil du Sud sans créer de vis-à-vis sur la parcelle voisine, et répondre ainsi à la réglementation, un patio lumineux bordé d’un écran en verre dépoli s’intercale entre la maison et la limite de propriété.
+Afin de profiter du soleil du sud sans créer de vis-à-vis sur la parcelle voisine, et répondre ainsi à la réglementation, un patio lumineux bordé d’un écran en verre dépoli s’intercale entre la maison et la limite de propriété.
 Ce patio, lieu de vie et de circulation entre dehors et dedans, contribue à brouiller la limite intérieur/extérieur.
 Une très petite intervention, transforme ainsi radicalement l’ambiance d’un grand jardin. 
 
