@@ -51,7 +51,7 @@ gallery:
   * Isolation: Laine de bois
   * Chauffage: Poêle à bois
 
-Lorsqu’ils sont venus nous consulter, nos clients étaient désespérés car un précédant projet, sur ce site en forte pente au dessus d’Annecy, engloutissait leur budget uniquement dans les fondations.
+Lorsqu’ils sont venus nous consulter, nos clients étaient désespérés car un précédant projet, sur ce site en forte pente au-dessus d’Annecy, engloutissait leur budget uniquement dans les fondations.
 Nous avons pris le parti de ne pas toucher au site, mais d’ancrer la maison dans le rocher existant, se dispensant ainsi de  terrassement et de fondations onéreux dans cette zone sismique.
 Une structure minimaliste en acier permet de retrouver un plan horizontal sur lequel se pose cette tranche de chalet. 
 Le profil de la maison suit les mêmes codes que ceux de l’architecture locale. L’étage principal est constitué d’un seul grand volume, un loft ouvert sur la vallée.
