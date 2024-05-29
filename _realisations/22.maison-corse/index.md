@@ -32,7 +32,7 @@ gallery:
   * Site: Morsiglia / Haute Corse
   * Surface: 17 m2
   * Budget: 96 000€ TTC
-  * Matériaux: Longrines béton, pin Laricio, lauze, châssis et vêture mélèze
+  * Matériaux: Longrines béton, pin laricio, lauze, châssis et vêture mélèze
   * Chauffage: Poêle à bois
 
 Pour profiter du cap Corse sans dénaturer ce magnifique paysage, cette petite intendance aux allures de cabane de berger vient se poser sans dérangement entre deux murets construits par les anciens sur un site à fort dénivelé.
