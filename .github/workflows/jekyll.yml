@@ -29,4 +29,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site
       - name: set custom domain
-        run: echo 'arba.pro' > ./build/CNAME && gh-pages -d build"
+        run: echo 'arba.pro' > ./build/CNAME && gh-pages -d build
