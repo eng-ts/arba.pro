@@ -25,7 +25,6 @@ Né à Paris en 1970 Diplômé de l’ENSA Paris-Malaquais/ Paris 1998
 **Sihem Lamine**
 Née à Tunis en 1977 Diplômée de L’École Spéciale d’Architecture/ Paris 2002
 
-Collaborateur
-**Pierre Gourvennec**
-Né à Brest en 1989 Diplômé de l’ENSA Paris-Malaquais/ Paris 2014
+**Alexandre Simon**
+Né à Metz en 1993 Diplômé de l’ENSA Paris-La Villette/ Paris 2017
 
