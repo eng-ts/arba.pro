@@ -2,10 +2,10 @@ title: Vitry-sur-Seine | 2008
 -
 date:
 -
-content: 
-<br>&bull; Site: Vitry-sur-Seine / Ile-de-France
-<br>&bull; Surface: 120 m2
-<br>&bull; Budget: 170 000€
+content:
+<br>&bull; Site : Vitry-sur-Seine / Ile-de-France
+<br>&bull; Surface : 120 m2
+<br>&bull; Budget : 170 000€
 
 Ce site n’était pas assez grand pour accueillir à la fois un jardin et une maison.Nous avons donc bâti la maison sous le jardin. 
 Un terrassement en déblai-remblai modèle un vallon, qui est ensuite soutenu par un volume maçonné.
